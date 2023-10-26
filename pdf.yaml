@@ -1,0 +1,19 @@
+from               : markdown+raw_tex
+to                 : latex
+standalone         : true
+file-scope         : true
+pdf-engine         : xelatex
+fail-if-warnings   : false
+cite-method        : citeproc
+filters:
+  - pandoc-crossref
+  - citeproc
+variables:
+  documentclass    : article
+  fontsize         : 12pt
+  indent           : true
+  number-secions   : true
+  papersize        : a4
+  header-includes: |
+    \usepackage{times}
+    \usepackage{csquotes}
