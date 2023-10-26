@@ -8,12 +8,33 @@ cite-method        : citeproc
 filters:
   - pandoc-crossref
   - citeproc
+number-sections    : true
 variables:
   documentclass    : article
-  fontsize         : 12pt
-  indent           : true
-  number-secions   : true
+  fontsize         : 11pt
+  indent           : false
+  fontfamily       : times
   papersize        : a4
   header-includes: |
-    \usepackage{times}
+    \usepackage[runin]{abstract}
+    \setlength{\absleftindent}{0mm}
+    \setlength{\absrightindent}{0mm}
+    \setlength{\absparindent}{0pt}
+    \setlength{\abstitleskip}{0pt}
+    \abslabeldelim{.}
+    \renewcommand*{\abstractnamefont}{\bfseries\itshape\normalsize}
+    \renewcommand*{\abstracttextfont}{\itshape\normalsize}
+
+    \usepackage{mathptmx}
+    \usepackage[T1]{fontenc}
+    \usepackage{textcomp}
     \usepackage{csquotes}
+
+    \usepackage{titling}
+    \pretitle{\begin{center}\Large\textbf}
+    \posttitle{\end{center}}
+    \predate{\begin{center}}
+    \postdate{\end{center}}
+
+    \usepackage{endnotes}
+    \let\footnote=\endnote
