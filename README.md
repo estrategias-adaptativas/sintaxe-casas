@@ -1,4 +1,4 @@
-# Tipologia doméstica luso-brasileira à luz da profundidade visual #
+# Tipologia doméstica luso-brasileira à luz da integração visual #
 
 --------------------------------------------------
 
