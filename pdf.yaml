@@ -13,7 +13,12 @@ variables:
   documentclass    : article
   fontsize         : 11pt
   indent           : false
-  fontfamily       : times
+  mainfont         : TimesLTStd-Roman.otf
+  mainfontoptions:
+    - Path=media/
+    - BoldFont=TimesLTStd-Bold.otf
+    - ItalicFont=TimesLTStd-Italic.otf
+    - BoldItalicFont=TimesLTStd-BoldItalic.otf
   papersize        : a4
   header-includes: |
     \usepackage[runin]{abstract}
@@ -25,8 +30,6 @@ variables:
     \renewcommand*{\abstractnamefont}{\bfseries\itshape\normalsize}
     \renewcommand*{\abstracttextfont}{\itshape\normalsize}
 
-    \usepackage{mathptmx}
-    \usepackage[T1]{fontenc}
     \usepackage{textcomp}
     \usepackage{csquotes}
 
@@ -38,3 +41,6 @@ variables:
 
     \usepackage{endnotes}
     \let\footnote=\endnote
+
+    \usepackage{titlesec}
+    \titleformat*{\subsection}{\normalfont\itshape}
