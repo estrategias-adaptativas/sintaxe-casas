@@ -275,15 +275,47 @@ A nomenclatura habitual dos tipos edilícios de base no Brasil não
 recobre todas as manifestações da morada tradicional e, pior ainda, não
 tem consistência descritiva. Designações sócio-históricas, como a de
 « casa bandeirista », coexistem com outras vagamente descritivas da
-morfologia das plantas, tais como « meia-morada » ou « morada-inteira ».
+morfologia das plantas, tais como « casa de morada » --- a qual designa
+qualquer casa corrente dotada de corredor longitudinal --- e suas
+variações, « meia-morada » ou « morada-inteira ». Estas duas últimas
+diferem quanto ao número de células em largura --- uma ou duas --- e,
+consequentemente, à posição lateral ou central do corredor.
+
+Em Portugal o vocabulário é igualmente equívoco e por vezes incompatível
+com a nomenclatura brasileira. O termo « morada de casas » designa,
+sobretudo no Alentejo [@costa:2015moradas], uma tipologia doméstica
+urbana formada por células de pequenas dimensões sem distinção quanto à
+composição dessas células ou à natureza do parcelamento do solo. Mais
+consistente é a distinção, dentro da série tipológica da casa corrente,
+entre « habitação de frente estreita » contando com uma única célula em
+largura, e « habitação de frente larga » contando com duas ou mais
+células em largura. A habitação de frente estreita na nomenclatura
+portuguesa corresponde à « casa de porta e janela » na nomenclatura
+brasileira, e a habitação de frente larga recobre o espectro das casas
+de morada na nomenclatura brasileira.
+
+Outra inconsistência de nomenclatura entre Portugal e Brasil se refere à
+terminologia do « solar ». Em Portugal este nome designa somente uma
+« casa nobre » (habitação palaciana) rural, uma vez que a sua etimologia
+deriva de « solo », ou seja, de uma herdade aristocrática. Já no Brasil
+as « casas senhoriais » (termo equivalente à casa nobre em Portugal)
+urbanas ou suburbanas também recebem, ocasionalmente e sem critérios
+claros, a designação de solar.
+
 Ademais, essa nomenclatura é pouco relevante para se retroceder às
 matrizes tipológicas da casa luso-brasileira em Portugal continental ou
 nas ilhas atlânticas. Desde o Inquérito que a classificação hegemônica
 da arquitetura tradicional portuguesa opera por tipos regionais, em
 autores como @oliveira:1992arquitectura, @moutinho:1995arquitectura e
 @mascarenhas:2015arquitectura. No entanto, trata-se de uma nomenclatura
-em grande medida estabilizada na bibliografia e da qual não será
-possível divergir significativamente.
+em grande medida estabilizada na bibliografia brasileira e da qual não
+será possível divergir significativamente.
+
+Além disso, como já apontado acima, o principal interesse deste trabalho
+está na trajetória dos tipos urbanos de casas correntes e das casas
+senhoriais que se aproximam ao contexto urbano. A tipologia da casa
+corrente em Portugal tem, por sua vez, uma origem unitária como indicado
+pela nomenclatura do « lote gótico ».
 
 Por isso, o diagrama a seguir oferece tanto uma síntese dos
 processos tipológicos acima descritos, quanto uma proposta de
@@ -456,9 +488,25 @@ importadas das casas correntes, porém.
 
 A nitidez com que o método da integração visual permite distinguir entre
 as séries tipológicas da casa corrente e da casa senhorial é um
-resultado que põe em xeque a leitura convencional da cidade de origem
+resultado que redireciona a leitura convencional da cidade de origem
 colonial e imperial no Brasil. Em vez de separar os tipos edilícios por
-variações regionais e de renda dos seus usuários, 
+variações regionais ou pela quantidade de ambientes, é possível
+diferenciar as séries tipológicas pelo posicionamento do núcleo
+integrador e pela direção do vetor linear de maior integração.
+
+O resultado da análise de integração visual vem, na verdade, confirmar
+por meio da morfologia espacial as dinâmicas da vida doméstica que a
+história social já apontavam, nomeadamente a primazia da varanda no
+convívio familiar urbano e, no caso específico da arquitetura senhorial,
+a primazia dos espaços de recepção e representação. Com isso, permite
+fortalecer o vínculo até então tênue e pouco rigoroso entre forma
+arquitetônica e dinâmicas socioculturais.
+
+Mais ainda, essa ferramenta da sintaxe espacial esclarece, nos casos
+morfológicos limítrofes, a vinculação de certas edificações
+preferencialmente à tipologia da casa corrente ou da casa senhorial. Tal
+assistência é pertinente se levarmos em conta justamente a sua
+capacidade de fortalecer 
 
 
 # Conclusão #
