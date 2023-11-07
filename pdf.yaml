@@ -44,3 +44,15 @@ variables:
 
     \usepackage{titlesec}
     \titleformat*{\subsection}{\normalfont\itshape}
+
+    \usepackage{subfig}
+    \usepackage{caption}
+    \captionsetup[subfloat]{margin=0.5em}
+    \newenvironment{pandoccrossrefsubfigures}
+    {
+      \begin{figure}
+    }
+    {
+      \end{figure}
+    }
+

@@ -1,13 +1,30 @@
 ---
-title: "Distinção e hibridização entre casas correntes e casas nobres luso-brasileiras por meio da integração visual"
+title: "Caracterização das tipologias de casas tradicionais luso-brasileiras por meio da integração visual"
 author:
-  - "Autor 1"
-  - "Autor 2"
+  - "Pedro P. Palazzo"
+  - "Eduarda Toscano de Carvalho"
 csl: associacao-brasileira-de-normas-tecnicas.csl
 reference-section-title: "Referências"
 lang: pt
 abstract: > # 200 palavras
-  A morfologia das casas correntes e das casas nobres.
+  Este trabalho analisa as diferenças morfológicas na arquitetura
+  tradicional urbana luso-brasileira entre as tipologias de casas
+  correntes e de casas senhoriais, no período que vai da metade do
+  século XVIII até o início do século XX. O recorte privilegia o
+  universo mais uniforme e conservador dos estados do Rio de Janeiro,
+  Goiás (incluindo Tocantins) e Minas Gerais. O estudo identifica
+  características estruturantes de cada uma das duas séries
+  morfológicas. Enquanto a maioria dos estudos anteriores se concentra
+  na análise de grafos para avaliar as conexões topológicas entre
+  ambientes individuais, esta pesquisa adota a análise de integração
+  visual, que enfatiza os centros morfológicos dos espaços. Os
+  resultados evidenciam como a análise de integração visual confirma a
+  congruência entre a composição espacial das casas correntes e
+  senhoriais e os atributos da vida social próprios a cada uma dessas
+  tipologias. Tais atributos são a localização do convívio familiar nos
+  fundos da casa corrente e, em contraste, a primazia dos espaços de
+  recepção e representação na parte dianteira das casas senhoriais.
+
 keywords: ["Arquitetura doméstica", "Profundidade visual", "Tipologia", "Brasil", "Séculos XVIII e XIX"]
 thanks: >
   Esta pesquisa foi fomentada com uma bolsa de iniciação científica do
@@ -22,9 +39,24 @@ thanks: >
 `\itshape`{=latex} Palavras-chave: Arquitetura doméstica,
 profundidade visual, tipologia, Brasil, séculos XVIII e XIX
 
-## Differentiation and hybridization among Brazilian rowhouses and mansions by means of visual depth analysis ## {-}
+# Characterizing traditional Brazilian house typologies by means of intervisibility analysis # {-}
 
-`\itshape`{=latex} **Abstract.** Whatever.
+`\itshape`{=latex} **Abstract.** This paper analyzes the morphological
+differences in traditional urban architecture in Brazil between the
+typologies of rowhouses and urban or suburban mansions, from the
+mid-eighteenth to the early twentieth century. It focuses on the
+relatively uniform and conservative context of the states of Rio de
+Janeiro, Goiás (including Tocantins), and Minas Gerais. This study
+highlights defining characteristics of each of the two typological
+series. While most previous studies have looked at tree graph analysis
+to assess the topological connections between individual spaces, this
+research turns to intervisibility analysis, evidencing the morphological
+centers of compositions. The results highlight how visual integration
+analysis confirms the overlap between the spatial composition of both
+rowhouses and mansions and the attributes of social life specific to
+each of these typologies. These attributes include the location of the
+family room in the rear of rowhouses and, in contrast, the primacy of
+ceremonial spaces in the front of mansions.
 
 `\bigskip`{=latex}
 
@@ -36,52 +68,60 @@ Brazil, 18th and 19th centuries
 # Introdução #
 
 O universo das casas correntes tradicionais no Brasil é reconhecidamente
-marcado pela uniformidade tipológica, centrada no paradigma da "casa de
-morada" composta por células de pequenas dimensões, com distribuição
+marcado pela uniformidade tipológica, dominada pelo paradigma da « casa
+de morada » composta por células de pequenas dimensões, com distribuição
 longitudinal por meio de um corredor. Esse universo coexiste e se
-hibridiza com a tipologia da casa senhorial urbana, menos popular na
-historiografia do que a sua congênere rural. A análise de integração
-visual de um conjunto de casas urbanas dos séculos XVIII, XIX e início
-do XX em Goiás e Minas Gerais permite observar as variações morfológicas
-entre essas duas tipologias.
+hibridiza com a tipologia da casa senhorial urbana
+([@fig:real-fazenda]), menos popular na historiografia do que a sua
+congênere rural. A análise de integração visual de um conjunto de casas
+urbanas do século XVIII até o início do XX no estado do Rio de Janeiro,
+Goiás (incluindo Tocantins) e Minas Gerais permite observar as variações
+morfológicas entre essas duas tipologias.
+
+![Casas correntes dos séculos XVIII, XIX e XX na cidade de Goiás. Foto: Pedro P. Palazzo, 2007](media/br-go-goias-ladeira_chafariz-070101-pp-0224-full.jpg){#fig:casario}
 
 Por volta da metade do século XVIII, a cultura construtiva em Portugal e
 no seu império ultramarino realiza um processo simultâneo de
-consolidação das suas tradições de origem medieval e de renovação nas
-suas práticas tecnológicas e nos seus paradigmas normativos. Tal
-movimento resulta numa relativa estabilidade de uma tradição
-luso-brasileira, sobretudo no âmbito da edilícia de base urbana.
-Ultrapassando a Independência, essa tradição persiste em ambas as
-margens do Atlântico ao menos até a difusão de ideologias sanitaristas e
-da cultura doméstica burguesa no contexto republicano do início do
-século XX, e mais além em regiões isoladas como o interior do estado de
-Goiás.
+consolidação das suas tradições de origem medieval e de renovação,
+identificada por @pinto:2016regulacao, nas suas práticas tecnológicas e
+nos seus paradigmas normativos. Tal movimento resulta a partir de então
+numa relativa estabilidade de uma tradição luso-brasileira, sobretudo no
+âmbito da edilícia de base urbana ([@fig:casario]). Ultrapassando a
+Independência, essa tradição persiste em ambas as margens do Atlântico
+ao menos até a difusão de ideologias sanitaristas e da cultura doméstica
+burguesa no contexto republicano do início do século XX, e mais além em
+regiões isoladas como o interior do estado de Goiás.
 
-Este artigo analisa a morfologia de moradas urbanas em Minas Gerais e
-Goiás no recorte cronológico dessa tradição luso-brasileira,
-confrontando entre si as configurações de casas correntes e
-moradas senhoriais. O instrumental usado para tal comparação é a análise
-de visibilidade (isovistas) pertencente à caixa de ferramentas da
-sintaxe espacial e produzida pelo programa de código aberto DepthmapX
-criado por @varoudis:2020depthmapx. A aplicação da sintaxe espacial na
-arquitetura doméstica tradicional no Brasil é um campo em expansão,
-baseado em grande parte na análise de grafos justificados, indicando a
-profundidade de conexões topológicas entre ambientes unitários. Essa
-estratégia é adotada, por exemplo, por @umbelino:2016casa e
-@oliveira:2021escravidao, onde permite identificar os padrões de
-circulação em árvore dentro das casas.
+![Real fazenda, Goiás, meados do século XVIII: exemplar de casa senhorial urbana. Foto: Pedro P. Palazzo, 2007](media/br-go-goias-real_fazenda-070101-pp-0216-full.jpg){#fig:real-fazenda}
+
+O presente artigo analisa a morfologia de moradas urbanas no recorte
+cronológico dessa tradição luso-brasileira, confrontando entre si as
+configurações de casas correntes e moradas senhoriais. O instrumental
+usado para tal comparação é a análise de visibilidade
+(intervisibilidade) pertencente à caixa de ferramentas da sintaxe
+espacial e produzida pelo programa de código aberto DepthmapX criado por
+@varoudis:2020depthmapx. A aplicação da sintaxe espacial na arquitetura
+doméstica tradicional no Brasil é um campo em expansão, baseado em
+grande parte na análise de grafos justificados, indicando a profundidade
+de conexões topológicas entre ambientes unitários. Essa estratégia é
+adotada, por exemplo, por @umbelino:2016casa e @oliveira:2021escravidao,
+onde permite identificar os padrões de circulação em árvore dentro das
+casas.
 
 Em contraste, a integração visual enfatiza o chamado centro
 morfológico dos espaços, aqueles mais visíveis e acessíveis a partir de
 todo o restante da edificação, representados no gráfico em cores
-quentes. Exemplos do método da integração visual podem ser encontrados
-também no estudo de @umbelino:2016casa, assim como no de
-@santana:2022nada10. Este último, em particular, demonstra como a
-integração visual permite realçar semelhanças na hierarquia espacial de
-casas à primeira vista muito díspares. Aprofundando as explorações
-preliminares de tais trabalhos, esta comunicação apresenta a análise de
-integração visual comparada de várias edificações privadas urbanas no
-Brasil, datadas de meados do século XVIII até o início do século XX.
+quentes ([fig:intervisibilidade]). Exemplos do método da integração
+visual podem ser encontrados também no estudo de @umbelino:2016casa,
+assim como no de @santana:2022nada10. Este último, em particular,
+demonstra como a integração visual permite realçar semelhanças na
+hierarquia espacial de casas à primeira vista muito díspares.
+Aprofundando as explorações preliminares de tais trabalhos, esta
+comunicação apresenta a análise de integração visual comparada de várias
+edificações privadas urbanas no Brasil, datadas de meados do século
+XVIII até o início do século XX.
+
+![Gráfico de intervisibilidade da casa do patrimônio de Paraty, 1750. Elaborado por Eduarda Toscano](media/br-rj-paraty-1750-escritorio_tecnico_do_iphan-casa_do_patrimonio_em_paraty-half.png){#fig:intervisibilidade}
 
 
 # Contexto histórico--tipológico #
@@ -96,6 +136,7 @@ quartel do século XX. Esta narrativa toma como ponto de partida a
 correspondência direta entre o sistema escravista e a configuração
 espacial da casa corrente luso-brasileira, tida como dependente da
 servidão doméstica para os mínimos confortos [@reis:1983quadro, 29].
+
 Essa narrativa ressalta, por exemplo, o contraste entre a renovação
 estética das fachadas sob o classicismo imperial do século XIX
 [nomenclatura proposta por @sousa:1994arquitetura, 25] e a persistência
@@ -133,6 +174,14 @@ impuseram, como mostrado por @navarro:2001urbanismo, um reparcelamento
 desses quarteirões em lotes de casas correntes, estreitos e profundos,
 modulados pelo substrato das casas-pátio preexistentes. Esse tipo de
 lote é convencionalmente designado em Portugal como « lote gótico ».
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:building-types}
+![domus](media/building-types-domus.png){#fig:building-types-domus}
+![regia](media/building-types-regia.png){#fig:building-types-regia}
+
+Diagramas ideais dos tipos edilícios segundo C. William Westfall, 1991.
+Desenho: Pedro P. Palazzo, 2020
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Não obstante as implicações historicamente discutíveis de tal
 nomenclatura apontadas por @trindade:2013urbanismo, tanto a alusão aos
@@ -408,7 +457,9 @@ de frente e outra de fundos até a « morada de casas » (Portugal) ou
 e alcovas de cada lado de um corredor central. Em casos extremos de
 expansão do núcleo elementar da casa corrente, o conjunto inteiro da
 casa de morada se duplica com a introdução de um segundo corredor
-longitudinal com seu sistema de salas e alcovas.
+longitudinal com seu sistema de salas e alcovas ([@fig:cora]).
+
+![Casa corrente duplicada: casa de Cora Coralina, Goiás, 1782. Desenho: Eduarda Toscano](media/br-go-vila_boa-1782-guia_dos_bens_imoveis_tombados_em_goias-casa_de_cora_coralina_v02.png){#fig:cora}
 
 No contexto das povoações brasileiras estabelecidas no período colonial,
 em geral menos densas do que os centros urbanos consolidados em
@@ -455,17 +506,23 @@ as senhoriais. Essa diferença reflete um matiz mais complexo de relações
 entre privacidade e publicidade da vida social entre as elites do Brasil
 escravista.
 
+![Gráfico de intervisibilidade de uma casa corrente com centro morfológico no acesso à varanda: casa enxaimel, Pilar de Goiás, século XVIII. Desenho: Eduarda Toscano](media/br-go-pilar_de_goias-plantas_residenciais-_casa_enxaimel-half.png){#fig:enxaimel}
+
 Nas plantas representativas da tipologia de casas correntes, o centro
 morfológico da composição está invariavelmente na « varanda » ou no
 portal entre o corredor e a varanda, reforçando a identificação desta
-última com o centro social da convivência doméstica. O vetor
-morfologicamente « quente » em volta desse ponto central se desenvolve
-sobretudo ao longo do eixo longitudinal formado pelo corredor.
+última com o centro social da convivência doméstica ([@fig:enxaimel]). O
+vetor morfologicamente « quente » em volta desse ponto central se
+desenvolve sobretudo ao longo do eixo longitudinal formado pelo
+corredor.
 
 Reciprocamente, nas casas senhoriais, o vetor morfologicamente mais
 quente se situa quase sempre junto à frente da casa e tem uma direção
 transversal. Os pontos de maior integração visual se situam então junto
-aos portais de alguns desses salões dispostos contra a fachada da casa.
+aos portais de alguns desses salões dispostos contra a fachada da casa
+([@fig:koeler]).
+
+![Gráfico de intervisibilidade de uma casa senhorial com centro morfológico na enfiada transversal dianteira: chácara dos herdeiros de Constantino Dias Pinheiro, Rio de Janeiro. Arquiteto Júlio Frederico Koeler, meados do século XIX. Desenho: Eduarda Toscano](media/br-rj-rio_de_janeiro-xix-koeler_julio_frederico-pavimento_da_casas_da_1_chacara_dos_herdeiros_de_constantino_dias_pinheiro.png){#fig:koeler}
 
 Mesmo naquelas plantas em que parece haver aproximação entre as duas
 séries tipológicas da casa corrente e da casa senhorial, o gráfico de
@@ -475,13 +532,20 @@ uma das duas configurações é dominante: seja a da casa corrente, com o
 centro morfológico na varanda e eixo integrador longitudinal, seja a da
 casa senhorial, com eixo integrador transversal junto à fachada.
 
-Inexistem, no corpo de exemplos estudados nesta investigação, casos de
-gráficos de visibilidade híbridos, onde as características tipológicas
-da casa corrente e da casa senhorial se sobreponham. Apenas em alguns
-exemplares de casas senhoriais muito alongadas longitudinalmente ou
-dotadas de pátio totalmente encerrado, há também um vetor de integração
-visual longitudinal --- não necessariamente associado a composições
-importadas das casas correntes, porém.
+No corpo de exemplos estudados nesta investigação, os casos de gráficos
+de visibilidade híbridos, onde as características tipológicas da casa
+corrente e da casa senhorial se sobreponham, são extremamente raros.
+Apenas em alguns exemplares de casas senhoriais muito alongadas
+longitudinalmente ou dotadas de pátio totalmente encerrado, há também um
+vetor de integração visual longitudinal --- não necessariamente
+associado a composições importadas das casas correntes, porém. A casa da
+Princesa, em Pilar de Goiás, é o único exemplar do universo analisado
+que apresenta dois centros morfológicos de importância comparável. O
+primeiro, na parte dianteira, configura uma enfiada transversal de
+salões segundo a tipologia das casas senhoriais; o segundo, aos fundos,
+enfatiza a importância da varanda no convívio íntimo ([@fig:princesa]).
+
+![Híbrido de casa corrente e senhorial: casa da Princesa, Pilar de Goiás, c. 1750. Desenho: Eduarda Toscano](media/br-go-pilar-1750c-casa_da_princesa-casa_do_patrimonio_em_pilar_de_goias.png){#fig:princesa}
 
 
 ## Implicações para o estudo da arquitetura doméstica luso-brasileira ##
@@ -506,17 +570,11 @@ Mais ainda, essa ferramenta da sintaxe espacial esclarece, nos casos
 morfológicos limítrofes, a vinculação de certas edificações
 preferencialmente à tipologia da casa corrente ou da casa senhorial. Tal
 assistência é pertinente se levarmos em conta justamente a sua
-capacidade de fortalecer 
+capacidade de fortalecer o diálogo crítico entre os modos de
+sociabilidade e a sua materialização na forma construída.
 
 
 # Conclusão #
-
-As casas brasileiras sofreram diversas adaptações ao longo do período
-estudado, como a especialização das atividades nos cômodos e a
-introdução de novos sistemas construtivos. Todavia, a transformação mais
-significativa é a introdução das moradas ecléticas, partido
-caracterizado pelo afastamento do volume principal das habitações em
-relação aos limites do lote e o acesso feito pela lateral das casas.
 
 Durante todo o período estudado, constatou-se a constância do centro
 morfológico das casas correntes e dos solares. Salões e varandas
@@ -529,4 +587,18 @@ percebeu-se que se localizavam relativamente próximos às áreas centrais.
 Foi confirmada a primazia da zona íntima nas casas de morada ou do salão
 nos tipos solarengos, onde centro quente nas residências permaneceu
 constante entre os séculos XVIII e XX.
+
+As casas brasileiras sofreram diversas adaptações ao longo do período
+estudado, como a especialização das atividades nos cômodos e a
+introdução de novos sistemas construtivos. Todavia, a transformação mais
+significativa é a introdução das moradas ecléticas, partido
+caracterizado pelo afastamento do volume principal das habitações em
+relação aos limites do lote e o acesso feito pela lateral das casas.
+
+Assim, a continuação de um trabalho sistemático de investigação da
+tipologia doméstica tradicional no Brasil deve expandir o escopo de
+análise para a arquitetura eclética, mas também para séries tipológicas
+vernaculares ainda não exploradas: nomeadamente as moradas dos
+imigrantes de diversas nacionalidades e outras casas rurais de pequeno
+porte.
 

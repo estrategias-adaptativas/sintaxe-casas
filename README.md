@@ -1,4 +1,4 @@
-# Tipologia doméstica luso-brasileira à luz da integração visual #
+# Caracterização das tipologias de casas tradicionais luso-brasileiras por meio da integração visual #
 
 --------------------------------------------------
 
