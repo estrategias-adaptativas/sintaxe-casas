@@ -1,11 +1,11 @@
 ---
 title: "Caracterização das tipologias de casas tradicionais luso-brasileiras por meio da integração visual"
-author:
+authors:
   - "Pedro P. Palazzo"
   - "Eduarda Toscano de Carvalho"
 csl: associacao-brasileira-de-normas-tecnicas.csl
 reference-section-title: "Referências"
-lang: pt
+lang: pt-BR
 abstract: > # 200 palavras
   Este trabalho analisa as diferenças morfológicas na arquitetura
   tradicional urbana luso-brasileira entre as tipologias de casas
@@ -30,7 +30,7 @@ thanks: >
   Esta pesquisa foi fomentada com uma bolsa de iniciação científica do
   Conselho Nacional para o Desenvolvimento Científico e Tecnológico
   (CNPq) no período 2021-2022.
-...
+---
 
 <!--Eixo Temático 3: Edificações-->
 
@@ -99,7 +99,7 @@ cronológico dessa tradição luso-brasileira, confrontando entre si as
 configurações de casas correntes e moradas senhoriais. O instrumental
 usado para tal comparação é a análise de visibilidade
 (intervisibilidade) pertencente à caixa de ferramentas da sintaxe
-espacial e produzida pelo programa de código aberto DepthmapX criado por
+espacial e produzida pelo programa de código aberto depthmapX criado por
 @varoudis:2020depthmapx. A aplicação da sintaxe espacial na arquitetura
 doméstica tradicional no Brasil é um campo em expansão, baseado em
 grande parte na análise de grafos justificados, indicando a profundidade
@@ -108,12 +108,14 @@ adotada, por exemplo, por @umbelino:2016casa e @oliveira:2021escravidao,
 onde permite identificar os padrões de circulação em árvore dentro das
 casas.
 
+<!--Citar Edja 2012-->
+
 Em contraste, a integração visual enfatiza o chamado centro
 morfológico dos espaços, aqueles mais visíveis e acessíveis a partir de
 todo o restante da edificação, representados no gráfico em cores
-quentes ([fig:intervisibilidade]). Exemplos do método da integração
+quentes ([@fig:intervisibilidade]). Exemplos do método da integração
 visual podem ser encontrados também no estudo de @umbelino:2016casa,
-assim como no de @santana:2022nada10. Este último, em particular,
+assim como no de Santana, Garcia e Gurgel [-@santana:2022nada10]. Este último, em particular,
 demonstra como a integração visual permite realçar semelhanças na
 hierarquia espacial de casas à primeira vista muito díspares.
 Aprofundando as explorações preliminares de tais trabalhos, esta
@@ -156,7 +158,7 @@ urbana e a morada rural ao longo do século XIX, como na documentação
 realizada por @martins:1978partido no interior de São Paulo. Segundo,
 chamam atenção para a tipologia da morada senhorial, objeto de
 aprofundados estudos neste século por grupos de pesquisa
-luso-brasileiros como aquele coordenado por @malta:2013casas.
+luso-brasileiros como aquele coordenado por Malta e Mendonça [-@malta:2013casas].
 
 ## Casas correntes ##
 
@@ -190,8 +192,8 @@ origem nos reinos germânicos do Noroeste da Europa --- Inglaterra, onde
 foi extensamente analisado por @conzen:2022alnwick, França e, mais a
 propósito da primeira dinastia portuguesa, Borgonha. O que importa notar
 é que, contrariamente à diversidade irredutível e aborígene das
-tradições rurais portuguesas identificadas pelo inquérito
-@arquitectura:1961, a tipologia das casas correntes tardomedievais na
+tradições rurais portuguesas identificadas pelo inquérito à *Arquitetura popular em Portugal*
+[-@arquitectura:1961], a tipologia das casas correntes tardomedievais na
 península Ibérica decorre de um processo intencionalmente uniformizador
 e xenofílico. A uniformidade da série tipológica das casas correntes
 europeias é demonstrada no catálogo de plantas de habitações « para
@@ -238,7 +240,7 @@ vernacular mediterrâneo é, entre outros atributos, um elemento da
 *promenade architecturale* na casa, conduzindo até o salão principal da
 morada. O pátio senhorial, ao contrário, se vincula ao tipo do *palazzo*
 medieval e renascentista. Neste tipo, o percurso social e público se
-situa *entre* a rua e o pátio, e não *atrás* do pátio.
+situa *entre* a rua e o pátio, e não *através* do pátio.
 
 Por isso mesmo, há exemplares que se podem classificar como casas
 senhoriais, mesmo sendo totalmente desprovidos de pátio. Nesses casos, é
@@ -265,7 +267,7 @@ Certo é, nesse panorama, que a formação do habitat vernáculo
 luso-brasileiro não tem a forma nem do caldeirão unitário e
 homogeneizado proposto pela mitologia do Estado Novo, nem, inversamente,
 de uma constelação de tradições que se movessem sempre no sentido de uma
-maior diferenciação regional.
+maior diferenciação regional, tal como proposto pelos autores do Inquérito.
 
 Assim, a história da morada luso-brasileira se caracteriza por duas
 negativas fundamentais já postuladas por @waisman:1993interior para
@@ -305,7 +307,9 @@ frequentemente mencionadas na literatura são:
    vernáculo açoriano por @duarte:2020traditional. Neste, sinaliza a
    precedência da segurança contra incêndio sobre o aproveitamento do
    calor do fogo, pouco importante nos climas amenos do mundo atlântico
-   português.
+   português. Destaca-se também nesse universo atlântico a raridade de
+   chaminés, com a extração de fumo obtida mais frequentemente através
+   da telha vã.
 
 Apenas no final do século XIX é que se pode ver a marca inconfundível de
 transformações diacrônicas operadas pela renovação dos modos de morar e
@@ -355,7 +359,7 @@ Ademais, essa nomenclatura é pouco relevante para se retroceder às
 matrizes tipológicas da casa luso-brasileira em Portugal continental ou
 nas ilhas atlânticas. Desde o Inquérito que a classificação hegemônica
 da arquitetura tradicional portuguesa opera por tipos regionais, em
-autores como @oliveira:1992arquitectura, @moutinho:1995arquitectura e
+autores como Oliveira e Galhano [=@oliveira:1992arquitectura], @moutinho:1995arquitectura e
 @mascarenhas:2015arquitectura. No entanto, trata-se de uma nomenclatura
 em grande medida estabilizada na bibliografia brasileira e da qual não
 será possível divergir significativamente.
@@ -366,11 +370,13 @@ senhoriais que se aproximam ao contexto urbano. A tipologia da casa
 corrente em Portugal tem, por sua vez, uma origem unitária como indicado
 pela nomenclatura do « lote gótico ».
 
-Por isso, o diagrama a seguir oferece tanto uma síntese dos
+Por isso, o diagrama a seguir [@fig:diagrama]) oferece tanto uma síntese dos
 processos tipológicos acima descritos, quanto uma proposta de
 nomenclatura padronizada, baseada sempre que possível nas convenções já
 consagradas na literatura. Essa nomenclatura será doravante usada neste
 artigo para se referir aos tipos cujos partidos ilustram o diagrama.
+
+![Diagrama](){#fig:diagrama}
 
 
 ## Recorte de estudo ##
@@ -391,11 +397,11 @@ sobre as casas senhoriais, por serem aqueles mais difundidos nos tecidos
 urbanos. O conjunto da amostra se concentra no antigo territórios goiano
 (incluindo o atual Tocantins), mineiro e fluminense. Trata-se de uma
 opção metodológica para contornar o contexto paulista, já amplamente
-estudado na literatura por autores como @lemos:1999casa;
-@lemos:1989alvenaria, bem como para privilegiar o aspecto mais
+estudado na literatura por autores como Lemos [-@lemos:1999casa;
+-@lemos:1989alvenaria], bem como para privilegiar o aspecto mais
 conservador da tradição luso-brasileira frente aos casos inovadores e
 idiossincráticos das principais cidades do Nordeste, explorados por
-@oliveira:1986casas e @silva:1986arquitetura.
+Oliveira e Galhano [-@oliveira:1986casas] e @silva:1986arquitetura.
 
 A variação diacrônica das séries tipológicas foi observada sempre que
 possível, mas não se constitui num aspecto predominante neste estudo.
@@ -412,7 +418,7 @@ terceiro quartel do século XIX.
 ## Procedimentos metodológicos ##
 
 As plantas das casas incluídas no recorte deste trabalho foram
-redesenhadas especificamente para uso no programa DepthmapX, levando em
+redesenhadas especificamente para uso no programa depthmapX, levando em
 conta apenas a distribuição de espaços interiores e pátios. O objetivo
 da análise foi averiguar o posicionamento do centro morfológico --- a
 zona de maior integração visual na planta, representada como uma mancha
@@ -433,9 +439,12 @@ distribuições estatísticas. Apenas as configurações morfológicas
 atestadas em todos os exemplares estudados, dentro de cada série
 tipológica, foram levadas em consideração como resultados da pesquisa.
 
+<!--quais configurações são essas? Quais foram excluídas por não serem atestadas?-->
+<!--Tabela ou gráfico com síntese das variáveis analisadas e ignoradas-->
+
 O conjunto de dados empregados nesta análise --- as plantas de todas as
 87 casas estudadas e seus respetivos gráficos de visibilidade --- está
-depositado em <>.
+depositado em <https://osf.io/gy47h/>.
 
 
 # Resultados e discussão #
@@ -499,7 +508,7 @@ diante dessas zonas cinzentas que a análise de integração visual permite
 esclarecer características estruturantes de tais composições.
 
 Os gráficos de profundidade visual
-gerados pelo programa DepthmapX [@gil:2015space10] sobre plantas de
+gerados pelo programa depthmapX [@gil:2015space10] sobre plantas de
 casas evidenciam, de fato, duas séries tipológicas distintas que
 confirmam a diferença morfológica essencial entre as casas correntes e
 as senhoriais. Essa diferença reflete um matiz mais complexo de relações
