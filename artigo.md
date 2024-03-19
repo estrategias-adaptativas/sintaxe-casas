@@ -78,7 +78,7 @@ urbanas do século XVIII até o início do XX no estado do Rio de Janeiro,
 Goiás (incluindo Tocantins) e Minas Gerais permite observar as variações
 morfológicas entre essas duas tipologias.
 
-![Casas correntes dos séculos XVIII, XIX e XX na cidade de Goiás. Foto: Pedro P. Palazzo, 2007](media/br-go-goias-ladeira_chafariz-070101-pp-0224-full.jpg){#fig:casario}
+![Casas correntes dos séculos XVIII, XIX e XX na cidade de Goiás. Foto do autor, 2007](media/br-go-goias-ladeira_chafariz-070101-pp-0224-full.jpg){#fig:casario}
 
 Por volta da metade do século XVIII, a cultura construtiva em Portugal e
 no seu império ultramarino realiza um processo simultâneo de
@@ -92,7 +92,7 @@ ao menos até a difusão de ideologias sanitaristas e da cultura doméstica
 burguesa no contexto republicano do início do século XX, e mais além em
 regiões isoladas como o interior do estado de Goiás.
 
-![Real fazenda, Goiás, meados do século XVIII: exemplar de casa senhorial urbana. Foto: Pedro P. Palazzo, 2007](media/br-go-goias-real_fazenda-070101-pp-0216-full.jpg){#fig:real-fazenda}
+![Real fazenda, Goiás, meados do século XVIII: exemplar de casa senhorial urbana. Foto do autor, 2007](media/br-go-goias-real_fazenda-070101-pp-0216-full.jpg){#fig:real-fazenda}
 
 O presente artigo analisa a morfologia de moradas urbanas no recorte
 cronológico dessa tradição luso-brasileira, confrontando entre si as
@@ -121,7 +121,7 @@ comunicação apresenta a análise de integração visual comparada de várias
 edificações privadas urbanas no Brasil, datadas de meados do século
 XVIII até o início do século XX.
 
-![Gráfico de intervisibilidade da casa do patrimônio de Paraty, 1750. Elaborado por Eduarda Toscano](media/br-rj-paraty-1750-escritorio_tecnico_do_iphan-casa_do_patrimonio_em_paraty-half.png){#fig:intervisibilidade}
+![Gráfico de intervisibilidade da casa do patrimônio de Paraty, 1750. Desenho da autora](media/br-rj-paraty-1750-escritorio_tecnico_do_iphan-casa_do_patrimonio_em_paraty-half.png){#fig:intervisibilidade}
 
 
 # Contexto histórico--tipológico #
@@ -180,7 +180,7 @@ lote é convencionalmente designado em Portugal como « lote gótico ».
 ![regia](media/building-types-regia.png){#fig:building-types-regia}
 
 Diagramas ideais dos tipos edilícios segundo C. William Westfall, 1991.
-Desenho: Pedro P. Palazzo, 2020
+Desenho do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Não obstante as implicações historicamente discutíveis de tal
@@ -459,7 +459,7 @@ expansão do núcleo elementar da casa corrente, o conjunto inteiro da
 casa de morada se duplica com a introdução de um segundo corredor
 longitudinal com seu sistema de salas e alcovas ([@fig:cora]).
 
-![Casa corrente duplicada: casa de Cora Coralina, Goiás, 1782. Desenho: Eduarda Toscano](media/br-go-vila_boa-1782-guia_dos_bens_imoveis_tombados_em_goias-casa_de_cora_coralina_v02.png){#fig:cora}
+![Casa corrente duplicada: casa de Cora Coralina, Goiás, 1782. Desenho da autora](media/br-go-vila_boa-1782-guia_dos_bens_imoveis_tombados_em_goias-casa_de_cora_coralina_v02.png){#fig:cora}
 
 No contexto das povoações brasileiras estabelecidas no período colonial,
 em geral menos densas do que os centros urbanos consolidados em
@@ -506,7 +506,7 @@ as senhoriais. Essa diferença reflete um matiz mais complexo de relações
 entre privacidade e publicidade da vida social entre as elites do Brasil
 escravista.
 
-![Gráfico de intervisibilidade de uma casa corrente com centro morfológico no acesso à varanda: casa enxaimel, Pilar de Goiás, século XVIII. Desenho: Eduarda Toscano](media/br-go-pilar_de_goias-plantas_residenciais-_casa_enxaimel-half.png){#fig:enxaimel}
+![Gráfico de intervisibilidade de uma casa corrente com centro morfológico no acesso à varanda: casa enxaimel, Pilar de Goiás, século XVIII. Desenho da autora](media/br-go-pilar_de_goias-plantas_residenciais-_casa_enxaimel-half.png){#fig:enxaimel}
 
 Nas plantas representativas da tipologia de casas correntes, o centro
 morfológico da composição está invariavelmente na « varanda » ou no
@@ -522,7 +522,7 @@ transversal. Os pontos de maior integração visual se situam então junto
 aos portais de alguns desses salões dispostos contra a fachada da casa
 ([@fig:koeler]).
 
-![Gráfico de intervisibilidade de uma casa senhorial com centro morfológico na enfiada transversal dianteira: chácara dos herdeiros de Constantino Dias Pinheiro, Rio de Janeiro. Arquiteto Júlio Frederico Koeler, meados do século XIX. Desenho: Eduarda Toscano](media/br-rj-rio_de_janeiro-xix-koeler_julio_frederico-pavimento_da_casas_da_1_chacara_dos_herdeiros_de_constantino_dias_pinheiro.png){#fig:koeler}
+![Gráfico de intervisibilidade de uma casa senhorial com centro morfológico na enfiada transversal dianteira: chácara dos herdeiros de Constantino Dias Pinheiro, Rio de Janeiro. Arquiteto Júlio Frederico Koeler, meados do século XIX. Desenho da autora](media/br-rj-rio_de_janeiro-xix-koeler_julio_frederico-pavimento_da_casas_da_1_chacara_dos_herdeiros_de_constantino_dias_pinheiro.png){#fig:koeler}
 
 Mesmo naquelas plantas em que parece haver aproximação entre as duas
 séries tipológicas da casa corrente e da casa senhorial, o gráfico de
@@ -545,7 +545,7 @@ primeiro, na parte dianteira, configura uma enfiada transversal de
 salões segundo a tipologia das casas senhoriais; o segundo, aos fundos,
 enfatiza a importância da varanda no convívio íntimo ([@fig:princesa]).
 
-![Híbrido de casa corrente e senhorial: casa da Princesa, Pilar de Goiás, c. 1750. Desenho: Eduarda Toscano](media/br-go-pilar-1750c-casa_da_princesa-casa_do_patrimonio_em_pilar_de_goias.png){#fig:princesa}
+![Híbrido de casa corrente e senhorial: casa da Princesa, Pilar de Goiás, c. 1750. Desenho da autora](media/br-go-pilar-1750c-casa_da_princesa-casa_do_patrimonio_em_pilar_de_goias.png){#fig:princesa}
 
 
 ## Implicações para o estudo da arquitetura doméstica luso-brasileira ##
