@@ -1,0 +1,996 @@
+---
+references:
+- id: algranti:1997familias
+  author:
+    - family: Algranti
+      given: Leila Mezan
+  call-number: GT2402.B6 H57 1997
+  citation-key: algranti:1997familias
+  collection-editor:
+    - family: Novais
+      given: Fernando A.
+  container-title: História da vida privada no Brasil
+  editor:
+    - family: Souza
+      given: Laura de Mello
+      dropping-particle: e
+  event-place: São Paulo
+  ISBN: 978-85-7164-681-0
+  issued:
+    - year: 1997
+  language: pt
+  page: 83-154
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: Famílias e vida doméstica
+  type: chapter
+  volume: '1'
+
+- id: arquitectura:1961
+  citation-key: arquitectura:1961
+  event-place: Lisboa
+  issued:
+    - year: 1961
+  language: pt
+  number-of-volumes: '2'
+  publisher: Sindicato Nacional dos Arquitectos
+  publisher-place: Lisboa
+  title: Arquitectura popular em Portugal
+  type: book
+
+- id: caniggia:1997analisi
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  citation-key: caniggia:1997analisi
+  container-title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  event-place: Firenze
+  ISBN: 978-88-8125-191-9
+  issued:
+    - year: 1997
+  language: it
+  original-date:
+    - year: 1981
+  page: 59–107
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: 'Analisi tipologica: la corte matrice dell’insediamento'
+  title-short: Analisi tipologica
+  type: chapter
+
+- id: conzen:2022alnwick
+  accessed:
+    - year: 2022
+      month: 3
+      day: 12
+  author:
+    - family: Conzen
+      given: M. R. G.
+  citation-key: conzen:2022alnwick
+  event-place: Porto
+  ISBN: 978-989-33-2888-0
+  issued:
+    - year: 2022
+  language: pt
+  original-date:
+    - year: 1960
+  publisher: Urban Forms
+  publisher-place: Porto
+  source: DOI.org (Crossref)
+  title: 'Alnwick, Northumberland: análise do plano de cidade'
+  title-short: Alnwick, Northumberland
+  translator:
+    - family: Oliveira
+      given: Vítor
+    - family: Monteiro
+      given: Cláudia
+  type: book
+
+- id: costa:2015moradas
+  author:
+    - family: Costa
+      given: Miguel Reimão
+  call-number: NA7414 .A77 2015
+  citation-key: costa:2015moradas
+  container-title: Arquitetura Tradicional no Mediterrâneo Ocidental
+  editor:
+    - family: Costa
+      given: Miguel Reimão
+    - family: Gómez Martínez
+      given: Susana
+    - family: Ribeiro
+      given: Vítor
+  event-place: 'Lisboa : Mértola'
+  event-title: '1o Congresso Internacional: Mértola, 13, 14 e 15 de maio de 2015'
+  ISBN: 978-972-8479-85-5
+  issued:
+    - year: 2015
+  language: pt
+  page: 13-19
+  publisher: Argumentum ; Campo Arqueológico de Mértola
+  publisher-place: 'Lisboa : Mértola'
+  source: Library of Congress ISBN
+  title: >-
+    As moradas de casas do núcleo intramuros de Mértola: uma leitura preliminar
+    da arquitetura doméstica entre o final do Antigo Regime e o início do século
+    <span smallcaps="smallcaps">XX</span>
+  title-short: As moradas de casas do núcleo intramuros de Mértola
+  type: paper-conference
+
+- id: debret:1839voyage3
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1839voyage3
+  event-place: Paris
+  issued:
+    - year: 1839
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, séjour d'un artiste français
+    au brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'avenement
+    et de l'abdication de S. M. D. Pedro Ier, fondateur de l'empire brésilien
+  title-short: Voyage pittoresque et historique au brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/4716
+  volume: '3'
+
+- id: duarte:2020traditional
+  author:
+    - family: Duarte Carlos
+      given: Gilberto
+    - family: Correia
+      given: Mariana
+    - family: Sousa
+      given: Goreti
+    - family: Alcindor
+      given: Mónica
+    - family: Florentino
+      given: Rui
+    - family: Bermúdez
+      given: Teresa
+    - family: Costa
+      given: Manuel P. S. R.
+  citation-key: duarte:2020traditional
+  collection-number: '5'
+  collection-title: Ricerche, architettura, pianificazione, paesaggio, design
+  container-title: From vernacular to world heritage
+  DOI: 10.36253/978-88-5518-293-5
+  editor:
+    - family: Dipasquale
+      given: Letizia
+    - family: Mecca
+      given: Saverio
+    - family: Correia
+      given: Mariana
+  event-place: Firenze
+  ISBN: 978-88-551-8292-8
+  issued:
+    - year: 2020
+  language: en
+  page: 82-97
+  publisher: Firenze University Press
+  publisher-place: Firenze
+  source: Library of Congress ISBN
+  title: >-
+    The traditional cultural landscape of Pico island and its vernacular
+    architecture, Portugal
+  type: chapter
+
+- id: freyre:1951sobrados
+  author:
+    - family: Freyre
+      given: Gilberto
+  citation-key: freyre:1951sobrados
+  edition: '2'
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1951
+  language: pt
+  publisher: José Olympio
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Sobrados e mucambos
+  type: book
+
+- id: gil:2015space10
+  abstract: >-
+    The "Space Syntax Toolkit" is a QGIS plug-in for spatial network and
+    statistical analysis. It provides a front-end for the depthmapX software
+    within QGIS, offering user-friendly space syntax analysis workflows in a GIS
+    environment. It is primarily aimed at supporting the space syntax
+    methodology, and enhancing it with GIS data, analysis and visualisation
+    features. Nevertheless, its functionality is of general benefit to QGIS
+    users by introducing tools for exploratory spatial data analysis. In this
+    article we present the "Space Syntax Toolkit", describing its principles and
+    implementation, the features of its two initial modules - "Graph Analysis"
+    and "Attribute Explorer" - and give indication of future developments.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 24
+  author:
+    - family: Gil
+      given: J.
+    - family: Varoudis
+      given: T.
+    - family: Karimi
+      given: K.
+    - family: Penn
+      given: A.
+  citation-key: gil:2015space10
+  container-title: SSS 2015
+  event-place: London
+  event-title: 10th International Space Syntax Symposium
+  issued:
+    - year: 2015
+      month: 7
+      day: 17
+  language: en
+  publisher: >-
+    Space Syntax Laboratory, The Bartlett School of Architecture, University
+    College London
+  publisher-place: London
+  source: discovery.ucl.ac.uk
+  title: >-
+    The space syntax toolkit: Integrating DepthmapX and exploratory spatial
+    analysis workflows in <span class="smallcaps">QGIS</span>
+  title-short: The space syntax toolkit
+  type: paper-conference
+  URL: http://www.sss10.bartlett.ucl.ac.uk/proceedings/
+  volume: '10'
+
+- id: lemos:1976cozinhas
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  call-number: NA7300.S26 L454
+  citation-key: lemos:1976cozinhas
+  collection-title: 'Debates ; 94 : arquitetura'
+  event-place: São Paulo
+  issued:
+    - year: 1976
+  language: por
+  number-of-pages: '226'
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: dedalus.usp.br Library Catalog
+  title: 'Cozinhas, etc: um estudo sobre as zonas de serviço da casa paulista'
+  title-short: Cozinhas, etc
+  type: book
+
+- id: lemos:1989alvenaria
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  citation-key: lemos:1989alvenaria
+  edition: '2'
+  event-place: São Paulo
+  ISBN: 978-85-213-0465-4
+  issued:
+    - year: 1989
+  language: pt
+  publisher: Nobel
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Alvenaria burguesa: breve história da arquitetura residencial de tijolos em
+    São Paulo a partir do ciclo econômico liderado pelo café
+  title-short: Alvenaria burguesa
+  type: book
+
+- id: lemos:1996historia
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  citation-key: lemos:1996historia
+  event-place: São Paulo
+  ISBN: 978-85-85134-53-2
+  issued:
+    - year: 1996
+  language: pt
+  publisher: Contexto
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: História da casa brasileira
+  type: book
+
+- id: lemos:1999casa
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  citation-key: lemos:1999casa
+  event-place: São Paulo
+  ISBN: 978-85-314-0471-9
+  issued:
+    - year: 1999
+  language: pt-BR
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Casa paulista: história das moradias anteriores ao ecletismo trazido pelo
+    café
+  title-short: Casa paulista
+  type: book
+
+- id: lemos:1999republica
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  citation-key: lemos:1999republica
+  event-place: São Paulo
+  ISBN: 978-85-271-0461-6
+  issued:
+    - year: 1999
+  language: pt
+  publisher: Hucitec
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A república ensina a morar (melhor)
+  type: book
+
+- id: maestri:2001sobrado
+  author:
+    - family: Maestri
+      given: Mário
+  call-number: NA2543.R37 M34 2001
+  citation-key: maestri:2001sobrado
+  collection-number: '1'
+  collection-title: Coleção Malungo
+  event-place: Passo Fundo
+  ISBN: 978-85-7515-013-9
+  issued:
+    - year: 2001
+  language: pt
+  number-of-pages: '248'
+  publisher: <span smallcaps="smallcaps">UPF</span> Editora
+  publisher-place: Passo Fundo
+  source: Library of Congress ISBN
+  title: >-
+    O sobrado e o cativo: a arquitetura urbana erudita no Brasil escravista: o
+    caso gaúcho
+  title-short: O sobrado e o cativo
+  type: book
+
+- id: malta:2013casas
+  citation-key: malta:2013casas
+  editor:
+    - family: Malta
+      given: Marize
+    - family: Mendoça
+      given: Isabel Mayor Godinho
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87145-58-1
+  issued:
+    - year: 2013
+  language: pt
+  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Casas senhoriais Rio-Lisboa e seus interiores
+  type: book
+
+- id: martins:1978partido
+  author:
+    - family: Martins
+      given: Neide Marcondes
+  citation-key: martins:1978partido
+  event-place: São Paulo
+  issued:
+    - year: 1978
+  language: pt
+  publisher: Conselho Estadual de Artes e Ciências Humanas
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    O partido arquitetônico rural no século <span
+    smallcaps="smallcaps">XIX</span>:  Porto Feliz, Tietê, Laranjal Paulista
+  title-short: O partido arquitetônico rural no século XIX
+  type: book
+
+- id: mascarenhas:2015arquitectura
+  author:
+    - family: Mascarenhas
+      given: Jorge
+  call-number: MLCM 2017/43058 (T)
+  citation-key: mascarenhas:2015arquitectura
+  collection-number: XV
+  collection-title: Sistemas de construção
+  event-place: Lisboa
+  ISBN: 978-972-24-1796-9
+  issued:
+    - year: 2015
+  language: pt
+  number-of-pages: '233'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Arquitectura popular portuguesa
+  type: book
+
+- id: moutinho:1995arquitectura
+  author:
+    - family: Moutinho
+      given: Mário
+  citation-key: moutinho:1995arquitectura
+  event-place: Lisboa
+  ISBN: 978-972-33-1054-2
+  issued:
+    - year: 1995
+  language: pt
+  publisher: Estampa
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Arquitectura popular portuguesa
+  type: book
+
+- id: muratori:1959studiIX
+  abstract: Quadro generale dalle origini agli sviluppi attuali
+  author:
+    - family: Muratori
+      given: Saverio
+  citation-key: muratori:1959studiIX
+  container-title: Palladio
+  issue: 3–4
+  issued:
+    - year: 1959
+      month: 7
+  language: it
+  page: 97-209
+  title: Studi per una operante storia urbana di Venezia. I
+  title-short: Studi per una operante storia urbana di Venezia
+  type: article-journal
+  volume: IX
+
+- id: navarro:2001urbanismo
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  author:
+    - family: Navarro Palazón
+      given: Julio
+    - family: Jiménez Castillo
+      given: Pedro
+  citation-key: navarro:2001urbanismo
+  container-title: 'La ciudad medieval: de la casa al tejido urbano'
+  event-place: Cuenca
+  event-title: >-
+    Primer Curso de Historia y Urbanismo Medieval organizado por la Universidad
+    de Castilla-La Mancha
+  ISBN: 978-84-8427-119-2
+  issued:
+    - year: 2001
+  language: es
+  publisher: Ediciones de la Universidad de Castilla-La Mancha
+  publisher-place: Cuenca
+  source: ruidera.uclm.es
+  title: >-
+    El urbanismo islámico y su transformación después de la conquista cristiana:
+    el caso de Murcia
+  title-short: El urbanismo islámico y su transformación después de la conquista cristiana
+  type: paper-conference
+  URL: https://ruidera.uclm.es/xmlui/handle/10578/4984
+
+- id: oliveira:1986casas
+  author:
+    - family: Oliveira
+      given: Ernesto Veiga
+      dropping-particle: de
+    - family: Galhano
+      given: Fernando
+  citation-key: oliveira:1986casas
+  event-place: Recife
+  ISBN: 978-85-7010-014-6
+  issued:
+    - year: 1986
+  language: pt-BR
+  publisher: Pool Editorial
+  publisher-place: Recife
+  source: Open WorldCat
+  title: Casas esguias do Porto e sobrados do Recife
+  type: book
+
+- id: oliveira:1992arquitectura
+  author:
+    - family: Oliveira
+      given: Ernesto Veiga
+      dropping-particle: de
+    - family: Galhano
+      given: Fernando
+  call-number: '728.3'
+  citation-key: oliveira:1992arquitectura
+  collection-number: '24'
+  collection-title: Portugal de Perto
+  event-place: Lisboa
+  ISBN: 978-972-20-0959-1
+  issued:
+    - year: 1992
+  language: pt
+  number-of-pages: '374'
+  publisher: Dom Quixote
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: Arquitectura tradicional portuguesa
+  type: book
+
+- id: oliveira:2021escravidao
+  abstract: >-
+    Nesta pesquisa explicito como trabalhos no campo da história e da
+    arqueologia auxiliam na construção de narrativas sobre a prática escravista
+    e os diversos sujeitos cocriadores desse cenário, além de pautar a adoção de
+    uma perspectiva afrodiaspórica
+  accessed:
+    - year: 2023
+      month: 10
+      day: 27
+  author:
+    - family: Oliveira
+      given: Karla Bianca da Silva
+  citation-key: oliveira:2021escravidao
+  event-place: Belo Horizonte
+  genre: Dissertação de Mestrado em Antropologia
+  issued:
+    - year: 2021
+      month: 1
+      day: 1
+  language: pt
+  publisher: Universidade Federal de Minas Gerais
+  publisher-place: Belo Horizonte
+  source: www.academia.edu
+  title: >-
+    Escravidão e terras de criar gado em um lugar denominado sertão: uma
+    arqueologia das moradas de casas e miudezas cotidianas do Seridó potiguar,
+    séculos <span smallcaps="smallcaps">XVIII</span> e <span
+    smallcaps="smallcaps">XIX</span>
+  title-short: Escravidão e terras de criar gado em um lugar denominado sertão
+  type: thesis
+  URL: >-
+    https://d1wqtxts1xzle7.cloudfront.net/70566594/OLIVEIRA.Karla_Bianca_da_Silva._2021._Escravidao_e_Terras_de_criar_gado_em_um_lugar_denominado_sertao-libre.pdf?1636163817=&response-content-disposition=inline%3B+filename%3DEscravidao_e_Terras_de_criar_gado_em_um.pdf&Expires=1698438994&Signature=HYe9nynZA0ERGYBC4bgdfV~JiZCrqRGe9rXhtxCF0POxmHCtnzmnIGvDtiEv0bOutgl0tq9Ju5Ju0piyQVWuTG-J~7AmDU7kcu-hUbe1f-r~soaWY6-ixD1I28bzYTbYw~0UooBZESV3jSXBEHWrwG0eHQpLZkJjWAuGp4qT59WUNuMkN6ettO-~XpVCjLanSH10q13M2eubH5UGDYXPFsw0wdalIaO-S69Pq-jVvDgRSRHbUmAzdG9~2TjECqGovB77t5RkHj53xEjF5MSeg9tEaiUdju9FfDDh~DmJcCr6PePgCVYO2XINA0cWDG4JFgEDIcFvqU~1vwFjENf-Zw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+- id: pinto:2016regulacao
+  accessed:
+    - year: 2020
+      month: 7
+      day: 5
+  author:
+    - family: Pinto
+      given: Sandra M. G.
+  citation-key: pinto:2016regulacao
+  container-title: Revista de estudios histórico-jurídicos
+  DOI: 10.4067/S0716-54552016000100006
+  ISSN: 0716-5455
+  issue: '38'
+  issued:
+    - year: 2016
+      month: 8
+  language: pt
+  page: 149-177
+  publisher: >-
+    Pontificia Universidad Católica de Valparaíso, .Facultad de Derecho, Escuela
+    de Derecho.
+  source: SciELO
+  title: >-
+    A regulação jurídica das fachadas em Portugal (séc. <span
+    smallcaps="smallcaps">XIV–XIX</span>)
+  title-short: A regulação jurídica das fachadas em Portugal
+  type: article-journal
+  URL: >-
+    https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0716-54552016000100006&lng=es&nrm=iso&tlng=pt
+
+- id: reis:1969lote
+  author:
+    - family: Reis Filho
+      given: Nestor Goulart
+  citation-key: reis:1969lote
+  event-place: São Paulo
+  issued:
+    - year: 1969
+  language: pt
+  publisher: <span smallcaps="smallcaps">FAUUSP</span>
+  publisher-place: São Paulo
+  source: dedalus.usp.br Library Catalog
+  title: Lote urbano e a arquitetura no Brasil
+  type: book
+
+- id: reis:1983quadro
+  author:
+    - family: Reis Filho
+      given: Nestor Goulart
+  citation-key: reis:1983quadro
+  event-place: São Paulo
+  issued:
+    - year: 1983
+  language: pt
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Quadro da arquitetura no Brasil
+  type: book
+
+- id: santana:2022nada10
+  abstract: >-
+    O presente artigo tem o objetivo de analisar, por meio do instrumental
+    teórico-metodológico da Sintaxe Espacial, a configuração dos espaços
+    domésticos de duas residências unifamiliares pós-modernistas brasileiras: a
+    Casa Bola (1979) de Eduardo Longo e a residência Hélio e Joana (1982) dos
+    arquitetos Sylvio Emrich de Podestá e Éolo Maia. Em análise comparada, foram
+    realizados estudos correlacionais dos perfis sintáticos das duas edificações
+    a partir de modelos de visibilidade e grafos de fluxo. Por meio da
+    investigação, foi possível correlacionar as modelagens obtidas com a
+    bibliografia revisada, delineando as propriedades sintáticas das edificações
+    e avaliando seus padrões. Por fim, após investigação, este estudo revela a
+    permanência das relações socioespaciais tradicionais e do paradigma dos
+    setores funcionais herdados da arquitetura modernista brasileira e
+    anteriores a ela.
+  accessed:
+    - year: 2023
+      month: 10
+      day: 28
+  author:
+    - family: Santana
+      given: Yan Chermonte Alves
+    - family: Garcia
+      given: Cláudia da Conceição
+    - family: Gurgel
+      given: Ana Paula Campos
+  citation-key: santana:2022nada10
+  container-title: Revista de Morfologia Urbana
+  container-title-short: RMU
+  DOI: 10.47235/rmu.v10i2.256
+  ISSN: 2182-7214
+  issue: '2'
+  issued:
+    - year: 2022
+      month: 11
+      day: 3
+  language: pt
+  source: DOI.org (Crossref)
+  title: >-
+    Nada será como antes, mas tudo é o mesmo: duas residências pós-modernistas
+    brasileiras sob o olhar da sintaxe espacial
+  title-short: Nada será como antes, mas tudo é o mesmo
+  type: article-journal
+  URL: http://revistademorfologiaurbana.org/index.php/rmu/article/view/256
+  volume: '10'
+
+- id: serlio:1547sesto
+  archive: Bayerische Staatsbibliothek München
+  archive_location: '189'
+  author:
+    - family: Serlio
+      given: Sebastiano
+  citation-key: serlio:1547sesto
+  event-place: Lyon
+  issued:
+    - year: 1547
+    - year: 1550
+  language: it
+  publisher-place: Lyon
+  title: 'Sesto libro d''architettura: Delle habitationi fuori e dentro delle città'
+  title-short: Sesto libro d'architettura
+  type: book
+  URL: https://opacplus.bsb-muenchen.de/title/BV023049640
+
+- id: silva:1986arquitetura
+  author:
+    - family: Silva Filho
+      given: Olavo Pereira
+      dropping-particle: da
+  citation-key: silva:1986arquitetura
+  issued:
+    - year: 1986
+  language: pt-BR
+  number-of-pages: '177'
+  publisher: Efecê
+  source: The Open Library
+  title: Arquitetura luso-brasileira no Maranhão
+  type: book
+
+- id: sousa:1994arquitetura
+  author:
+    - family: Sousa
+      given: Alberto José
+      dropping-particle: de
+  citation-key: sousa:1994arquitetura
+  edition: 1. ed
+  event-place: São Paulo
+  ISBN: 978-85-7266-038-9
+  issued:
+    - year: 1994
+  language: pt
+  number-of-pages: '120'
+  publisher: Pini
+  publisher-place: São Paulo
+  source: K10plus ISBN
+  title: 'Arquitetura neoclássica brasileira: um reexame'
+  title-short: Arquitetura neoclássica brasileira
+  type: book
+
+- id: trigueiro:2012sobrados
+  abstract: >-
+    O sobrado foi considerado um tipo único na literatura sobre arquitetura
+    doméstica
+
+    no Brasil colonial (VAUTHIER, SMITH). Um estudo morfológico da estrutura
+    espacial
+
+    desses edifícios foi desenvolvido como parte do processo analítico que
+    fundamentou
+
+    minha tese de doutorado (TRIGUEIRO, 1994) cujo objetivo foi investigar, em
+    perspec-
+
+    tiva diacrônica, nexos socioculturais impregnados nos arranjos espaciais de
+    moradias
+
+    coloniais e ecléticas, com enfoque para como certos espaços funcionais
+    relacionam-se
+
+    entre si e com o exterior, a fim de verificar traços de mudança e de
+    continuidade em
+
+    modos domésticos de vida. Técnicas básicas de representação, quantificação e
+    análi-
+
+    se, pertinentes ao instrumental da Análise Sintática do Espaço (HILLIER e
+    HANSON,
+
+    1984), foram aplicadas às plantas de duas moradias recorrentemente
+    consideradas na
+
+    literatura como arquétipos de residências das camadas mais privilegiadas,
+    por apre-
+
+    sentarem, dentre outros atributos arquitetônicos, um conjunto de espaços
+    organizados
+
+    em uma disposição geométrica semelhante. Os procedimentos metodológicos
+    empre-
+
+    gados visaram inicialmente verificar essa assertiva mediante a indagação de
+    se a uma
+
+    organização similar de ambientes com funções afins correspondia uma mesma
+    estru-
+
+    tura espacial, aqui entendida como expressiva e condutora de relações
+    socioculturais.
+
+    Os resultados indicaram que a aparência semelhante das caixas murais e dos
+    arranjos
+
+    dos cômodos nos dois casos examinados enformavam diferenças cruciais segundo
+    as
+
+    quais a configuração espacial dava resposta a modos distintos de interface
+    entre mora-
+
+    dores e entre estes e visitantes. Este estudo objetiva, portanto, demonstrar
+    a ocorrência
+
+    de dois modelos de configuração consubstanciados em leiautes semelhantes
+    conforme
+
+    representados em plantas baixas. Além de iluminar um tema que por tão
+    repetido ao
+
+    longo de tanto tempo atingiu status de mito, os achados aqui expostos podem
+    contri-
+
+    buir para a análise de moradias e de outros tipos edilícios por oferecer
+    exemplos do
+
+    emprego de procedimentos simples de análise configuracional que podem ajudar
+    a
+
+    enxergar para além da esfera estilística do ordenamento das partes,
+    desvelando a alma
+
+    social embutida na estrutura do todo.
+  accessed:
+    - year: 2024
+      month: 3
+      day: 12
+  author:
+    - family: Trigueiro
+      given: Edja Bezerra Faria
+  citation-key: trigueiro:2012sobrados
+  container-title: Cadernos Proarq
+  ISSN: 2675-0392
+  issue: '19'
+  issued:
+    - year: 2012
+      month: 12
+  language: pt
+  page: 194-211
+  source: Zotero
+  title: 'Sobrados coloniais: um tipo só?'
+  title-short: Sobrados coloniais
+  type: article-journal
+  URL: https://cadernos.proarq.fau.ufrj.br/pt/paginas/edicao/19
+
+- id: trindade:2013urbanismo
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 711.4(469)(043.2)
+  citation-key: trindade:2013urbanismo
+  DOI: 10.14195/978-989-26-0772-6
+  event-place: Coimbra
+  ISBN: 978-989-26-0772-6
+  issued:
+    - year: 2013
+  language: pt
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Crossref
+  title: Urbanismo na composição de Portugal
+  type: book
+  URL: http://dx.doi.org/10.14195/978-989-26-0772-6
+
+- id: umbelino:2016casa
+  abstract: >-
+    Este trabalho tem como objetivo entender a reorganização espacial de uma
+    edificação vernacular ao longo de um século, relacionando alterações na
+    configuração do espaço a mudanças no modo de vida e relações entre
+    habitantes, visitantes e empregados. Construída na década de 1920, na zona
+    rural do Nordeste brasileiro, a casa está abrigando a terceira geração da
+    família. Com aparência e caixa mural minimamente alteradas, abriga relações
+    espaciais distintas e responde a modos de morar diversos para cada fase
+    considerada. A casa original tinha como característica a mistura das funções
+    de habitação e produção rural, onde também eram armazenados os produtos da
+    colheita. A partir da década de 1960, com a migração do campo para a cidade,
+    a quantidade de moradores diminuiu consideravelmente. Em 1980 iniciaram as
+    primeiras reformas e a edificação passou a abrigar apenas a função de
+    moradia. Utilizando a metodologia da Sintaxe Espacial, são analisados os
+    aspectos morfológicos (geométricos e topológicos) e funcionais em
+    perspectiva sincrônica e diacrônica à luz de narrativas e impressões de
+    alguns usuários. A partir do estudo da alteração das áreas construídas,
+    investigou-se a importância de cada ambiente no modo de vida dos moradores,
+    tanto na análise da convivência familiar, como na interação com visitantes e
+    empregados. Como resultados, tem-se que as mudanças na década de 1980
+    priorizaram a praticidade na execução das tarefas domésticas. Na planta
+    atual, a prioridade são os espaços de lazer e interação social com
+    visitantes. As áreas com maior visibilidade tendem a maior interação social
+    e movimento de pessoas. Esse estudo verificou a permanência da sala de
+    jantar como o ambiente de maior visibilidade em praticamente todas as fases
+    analisadas, indicando a continuação do controle exercido pela matriarca. A
+    exceção é a configuração atual incluindo a área externa, que transformou os
+    alpendres na região de maior visibilidade e, de fato, é onde há a maior
+    permanência de usuários. Outro destaque é que, mesmo com a diminuição de
+    moradores, houve um aumento na quantidade de banheiros, alguns formando
+    suítes. Conclui-se que apesar do favorecimento das relações com visitantes
+    na configuração atual, há uma necessidade maior de privacidade quando
+    considerado o setor íntimo. E, enquanto a casa de 1980 favorecia a relação
+    com os empregados, a configuração de 1920 favorecia a interação entre os
+    familiares.
+  author:
+    - family: Umbelino
+      given: Andreia Gurgel
+  citation-key: umbelino:2016casa
+  container-title: Habitação e desenvolvimento sustentável
+  event-place: Belo Horizonte
+  event-title: 3.º Seminário nacional Habitar
+  issued:
+    - year: 2016
+      month: 11
+      day: 23
+  language: pt
+  publisher-place: Belo Horizonte
+  source: ResearchGate
+  title: >-
+    A casa que vovô morou, o meu pai herdou e passou para mim.: estudo da
+    reorganização espacial de edificação vernacular ao longo de um século
+  title-short: A casa que vovô morou, o meu pai herdou e passou para mim
+  type: paper-conference
+
+- id: varoudis:2020depthmapx
+  abstract: depthmapX is a multi-platform Spatial Network Analysis Software
+  accessed:
+    - year: 2023
+      month: 11
+      day: 4
+  author:
+    - family: Varoudis
+      given: Tasos
+  citation-key: varoudis:2020depthmapx
+  genre: C++
+  issued:
+    - year: 2020
+      month: 11
+      day: 5
+  title: depthmapX
+  type: software
+  URL: https://github.com/varoudis/depthmapX
+
+- id: waisman:1993interior
+  author:
+    - family: Waisman
+      given: Marina
+  citation-key: waisman:1993interior
+  edition: '2'
+  event-place: Bogotá
+  issued:
+    - year: 1993
+  language: es
+  publisher: Escala
+  publisher-place: Bogotá
+  source: Open WorldCat
+  title: >-
+    El interior de la historia: historiografía arquitectónica para uso de
+    latinoamericanos
+  title-short: El interior de la historia
+  type: book
+
+- id: weimer:2005arquitetura
+  author:
+    - family: Weimer
+      given: Günter
+  citation-key: weimer:2005arquitetura
+  event-place: São Paulo
+  ISBN: 978-85-7827-504-4
+  issued:
+    - year: 2005
+  language: pt
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Arquitetura popular brasileira
+  type: book
+
+- id: westfall:1991building
+  author:
+    - family: Westfall
+      given: Carroll William
+  citation-key: westfall:1991building
+  container-title: Architectural Principles in the Age of Historicism
+  editor:
+    - family: Westfall
+      given: Carroll William
+    - family: Pelt
+      given: Robert Jan
+      non-dropping-particle: van
+  event-place: New Haven
+  issued:
+    - year: 1991
+  language: en
+  page: 138-167
+  publisher: Yale University Press
+  publisher-place: New Haven
+  title: Building types
+  type: chapter
+...

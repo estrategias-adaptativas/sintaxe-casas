@@ -3,9 +3,11 @@ title: "Caracterização das tipologias de casas tradicionais luso-brasileiras p
 authors:
   - "Pedro P. Palazzo"
   - "Eduarda Toscano de Carvalho"
-csl: associacao-brasileira-de-normas-tecnicas.csl
+bibliography: _data/biblio.yaml
+csl: _data/associacao-brasileira-de-normas-tecnicas.csl
 reference-section-title: "Referências"
 lang: pt-BR
+figureTitle: "Figura"
 abstract: > # 200 palavras
   Este trabalho analisa as diferenças morfológicas na arquitetura
   tradicional urbana luso-brasileira entre as tipologias de casas
@@ -36,34 +38,32 @@ thanks: >
 
 <!--6.000 palavras sem resumo e keywords = 25p. = 10MB-->
 
-`\itshape`{=latex} Palavras-chave: Arquitetura doméstica,
-profundidade visual, tipologia, Brasil, séculos XVIII e XIX
+*Palavras-chave: Arquitetura doméstica, profundidade visual, tipologia,
+Brasil, séculos XVIII e XIX*
 
 # Characterizing traditional Brazilian house typologies by means of intervisibility analysis # {-}
 
-`\itshape`{=latex} **Abstract.** This paper analyzes the morphological
-differences in traditional urban architecture in Brazil between the
-typologies of rowhouses and urban or suburban mansions, from the
-mid-eighteenth to the early twentieth century. It focuses on the
-relatively uniform and conservative context of the states of Rio de
-Janeiro, Goiás (including Tocantins), and Minas Gerais. This study
-highlights defining characteristics of each of the two typological
-series. While most previous studies have looked at tree graph analysis
-to assess the topological connections between individual spaces, this
-research turns to intervisibility analysis, evidencing the morphological
-centers of compositions. The results highlight how visual integration
-analysis confirms the overlap between the spatial composition of both
-rowhouses and mansions and the attributes of social life specific to
-each of these typologies. These attributes include the location of the
-family room in the rear of rowhouses and, in contrast, the primacy of
-ceremonial spaces in the front of mansions.
+***Abstract.*** *This paper analyzes the morphological differences in
+traditional urban architecture in Brazil between the typologies of
+rowhouses and urban or suburban mansions, from the mid-eighteenth to the
+early twentieth century. It focuses on the relatively uniform and
+conservative context of the states of Rio de Janeiro, Goiás (including
+Tocantins), and Minas Gerais. This study highlights defining
+characteristics of each of the two typological series. While most
+previous studies have looked at tree graph analysis to assess the
+topological connections between individual spaces, this research turns
+to intervisibility analysis, evidencing the morphological centers of
+compositions. The results highlight how visual integration analysis
+confirms the overlap between the spatial composition of both rowhouses
+and mansions and the attributes of social life specific to each of these
+typologies. These attributes include the location of the family room in
+the rear of rowhouses and, in contrast, the primacy of ceremonial spaces
+in the front of mansions.*
 
 `\bigskip`{=latex}
 
-`\noindent`{=latex} Keywords: Domestic architecture, visual depth, typology,
-Brazil, 18th and 19th centuries
-
-`\normalfont`{=latex}
+`\noindent`{=latex} *Keywords: Domestic architecture, visual depth,
+typology, Brazil, 18th and 19th centuries*
 
 # Introdução #
 
@@ -94,7 +94,7 @@ regiões isoladas como o interior do estado de Goiás.
 
 ![Real fazenda, Goiás, meados do século XVIII: exemplar de casa senhorial urbana. Foto do autor, 2007](media/br-go-goias-real_fazenda-070101-pp-0216-full.jpg){#fig:real-fazenda}
 
-O presente artigo analisa a morfologia de moradas urbanas no recorte
+O presente artigo analisa a morfologia do andar nobre de moradas urbanas no recorte
 cronológico dessa tradição luso-brasileira, confrontando entre si as
 configurações de casas correntes e moradas senhoriais. O instrumental
 usado para tal comparação é a análise de visibilidade
@@ -103,19 +103,21 @@ espacial e produzida pelo programa de código aberto depthmapX criado por
 @varoudis:2020depthmapx. A aplicação da sintaxe espacial na arquitetura
 doméstica tradicional no Brasil é um campo em expansão, baseado em
 grande parte na análise de grafos justificados, indicando a profundidade
-de conexões topológicas entre ambientes unitários. Essa estratégia é
+de conexões topológicas entre ambientes unitários. Essa estratégia foi
+aplicada inicialmente por @trigueiro:2012sobrados e continua a ser amplamente
 adotada, por exemplo, por @umbelino:2016casa e @oliveira:2021escravidao,
 onde permite identificar os padrões de circulação em árvore dentro das
-casas.
-
-<!--Citar Edja 2012-->
+casas. Na investigação de Trigueiro, a profundidade topológica permitiu
+evidenciar diferenças na organização espacial entre tipos de plantas
+visualmente semelhantes.
 
 Em contraste, a integração visual enfatiza o chamado centro
 morfológico dos espaços, aqueles mais visíveis e acessíveis a partir de
 todo o restante da edificação, representados no gráfico em cores
 quentes ([@fig:intervisibilidade]). Exemplos do método da integração
 visual podem ser encontrados também no estudo de @umbelino:2016casa,
-assim como no de Santana, Garcia e Gurgel [-@santana:2022nada10]. Este último, em particular,
+assim como no de Santana, Garcia e Gurgel [-@santana:2022nada10].
+Este último, em particular,
 demonstra como a integração visual permite realçar semelhanças na
 hierarquia espacial de casas à primeira vista muito díspares.
 Aprofundando as explorações preliminares de tais trabalhos, esta
@@ -128,45 +130,13 @@ XVIII até o início do século XX.
 
 # Contexto histórico--tipológico #
 
-## Periodização ##
-
-A história da morada urbana luso-brasileira tem, atualmente, uma
-narrativa consolidada a partir de décadas de estudos generalistas, desde
-os primeiros ensaios interpretativos por @freyre:1951sobrados até as
-sínteses canônicas por @lemos:1996historia e @reis:1969lote no terceiro
-quartel do século XX. Esta narrativa toma como ponto de partida a
-correspondência direta entre o sistema escravista e a configuração
-espacial da casa corrente luso-brasileira, tida como dependente da
-servidão doméstica para os mínimos confortos [@reis:1983quadro, 29].
-
-Essa narrativa ressalta, por exemplo, o contraste entre a renovação
-estética das fachadas sob o classicismo imperial do século XIX
-[nomenclatura proposta por @sousa:1994arquitetura, 25] e a persistência
-de distribuições tradicionais até o final da monarquia. Segundo
-@maestri:2001sobrado, o conservadorismo das plantas de casas
-correntes evidencia uma relativa uniformidade do modelo escravista
-urbano no espaço e no tempo. Caberia então à República, na esteira da
-abolição da escravatura e da introdução do discurso sanitarista,
-promover mudanças significativas na distribuição espacial da moradia,
-muitas vezes, como mostrou @lemos:1999republica, por meio de imposições
-normativas.
-
-Pesquisas mais especializadas têm relativizado esse panorama de
-uniformidade e especificidade da morada urbana de dois modos. Primeiro,
-elas mostram crescentes semelhanças morfológicas entre a casa corrente
-urbana e a morada rural ao longo do século XIX, como na documentação
-realizada por @martins:1978partido no interior de São Paulo. Segundo,
-chamam atenção para a tipologia da morada senhorial, objeto de
-aprofundados estudos neste século por grupos de pesquisa
-luso-brasileiros como aquele coordenado por Malta e Mendonça [-@malta:2013casas].
-
 ## Casas correntes ##
 
 A tipologia da arquitetura doméstica urbana portuguesa divergiu da
 matriz mediterrânea com o reparcelamento das casas-pátio antigas em
 casas correntes durante a Idade Média. Usando a terminologia cunhada por
 @westfall:1991building, o tipo portante em grande parte dos tecidos
-urbanos ibéricos deixou de ser a *regia* e passou a ser a *domus*.
+urbanos ibéricos deixou de ser a *regia* e passou a ser a *domus.*
 Adotando a conceituação de @caniggia:1997analisi, a tipologia
 mediterrânea das casas-pátio --- e especialmente o tipo islamizado dos
 quarteirões profundos acessíveis por meio de adarves --- foi reduzida a
@@ -251,7 +221,38 @@ série. Nesse caso, a morada se conforma, por assim dizer, como se toda
 ela fosse o bloco dianteiro de um *palazzo* com pátio do qual foram
 eliminadas as alas laterais e a de fundos.
 
-## Tipologia doméstica no Brasil ##
+## Periodização e regionalização ##
+
+A história da morada urbana luso-brasileira tem, atualmente, uma
+narrativa consolidada a partir de décadas de estudos generalistas, desde
+os primeiros ensaios interpretativos por @freyre:1951sobrados até as
+sínteses canônicas por @lemos:1996historia e @reis:1969lote no terceiro
+quartel do século XX. Esta narrativa toma como ponto de partida a
+correspondência direta entre o sistema escravista e a configuração
+espacial da casa corrente luso-brasileira, tida como dependente da
+servidão doméstica para os mínimos confortos [@reis:1983quadro, 29].
+
+Essa narrativa ressalta, por exemplo, o contraste entre a renovação
+estética das fachadas sob o classicismo imperial do século XIX
+[nomenclatura proposta por @sousa:1994arquitetura, 25] e a persistência
+de distribuições tradicionais até o final da monarquia. Segundo
+@maestri:2001sobrado, o conservadorismo das plantas de casas
+correntes evidencia uma relativa uniformidade do modelo escravista
+urbano no espaço e no tempo. Caberia então à República, na esteira da
+abolição da escravatura e da introdução do discurso sanitarista,
+promover mudanças significativas na distribuição espacial da moradia,
+muitas vezes, como mostrou @lemos:1999republica, por meio de imposições
+normativas.
+
+Pesquisas mais especializadas têm relativizado esse panorama de
+uniformidade e especificidade da morada urbana de dois modos. Primeiro,
+elas mostram crescentes semelhanças morfológicas entre a casa corrente
+urbana e a morada rural ao longo do século XIX, como na documentação
+realizada por @martins:1978partido no interior de São Paulo. Segundo,
+chamam atenção para a tipologia da morada senhorial, objeto de
+aprofundados estudos neste século por grupos de pesquisa
+luso-brasileiros como aquele coordenado por Malta e Mendonça
+[-@malta:2013casas].
 
 A tipologia da habitação de origem portuguesa no Brasil não forma uma
 árvore genealógica autônoma a partir de um tipo matriz comum. Mais bem,
@@ -263,13 +264,17 @@ América portuguesa, ulteriores diferenciações e sínteses regionais e
 contextuais, alimentadas tanto por dinâmicas internas à cultura edilícia
 colonial quanto por injeções periódicas e localizadas de contingentes de
 artífices e usuários recém-chegados da península Ibérica e dos Açores.
+
 Certo é, nesse panorama, que a formação do habitat vernáculo
 luso-brasileiro não tem a forma nem do caldeirão unitário e
-homogeneizado proposto pela mitologia do Estado Novo, nem, inversamente,
+homogeneizado proposto pela mitologia do Estado Novo nem, inversamente,
 de uma constelação de tradições que se movessem sempre no sentido de uma
-maior diferenciação regional, tal como proposto pelos autores do Inquérito.
+maior diferenciação regional, tal como atestado pelos autores do
+Inquérito em Portugal continental.
 
-Assim, a história da morada luso-brasileira se caracteriza por duas
+## Tipologia doméstica no Brasil ##
+
+A história da morada luso-brasileira se caracteriza por duas
 negativas fundamentais já postuladas por @waisman:1993interior para
 o conjunto da arquitetura latinoamericana: por um lado, a
 impossibilidade de se estabelecer uma periodização consistente baseada
@@ -289,7 +294,7 @@ frequentemente mencionadas na literatura são:
    reclusa aos fundos da casa. Na casa brasileira, como sintetiza
    @lemos:1996historia, essa distinção se resolve na precedência da zona
    « íntima » sobre a zona « social », associada à natureza patriarcal
-   da sociedade colonial.
+   da sociedade colonial descrita por @freyre:1951sobrados.
 
 2. Distinção ancestral entre tipos distributivos rurais e urbanos, com
    primazia do rural sobre o urbano tanto na genealogia da derivação
@@ -298,7 +303,7 @@ frequentemente mencionadas na literatura são:
    séculos XVIII e XIX observa-se intensa contaminação cruzada desses
    tipos, com a presença de plantas rurais solarengas  na cidade e de
    partidos de casas correntes urbanas (com corredores longitudinais) em
-   moradas rurais [@martins:1978partido].
+   moradas rurais, como observou @martins:1978partido.
 
 3. Cozinha segregada da distribuição principal da morada, quando não da
    sua própria volumetria. Esse aspecto é por vezes apontado como
@@ -311,13 +316,27 @@ frequentemente mencionadas na literatura são:
    chaminés, com a extração de fumo obtida mais frequentemente através
    da telha vã.
 
-Apenas no final do século XIX é que se pode ver a marca inconfundível de
+Há outra característica morfológica transmitida da morada rural minhota
+para o Brasil através dos Açores, esta ainda não sistematizada na
+literatura. Trata-se do processo tipológico de « urbanização » da
+habitação por meio da transformação do estábulo ao rés do chão em porão
+alto e finalmente em pavimento térreo completo ([@fig:ribeiras]). Embora
+o primeiro passo desse processo seja raro no Brasil, livre da
+necessidade de captar o calor do gado para aquecer a habitação, as
+variantes com porão alto e sobrado completo estão presentes. Toda esta
+série tipológica apresenta a escada de acesso à habitação
+preferencialmente exterior ou imediatamente acessível pela entrada
+principal.
+
+![Processo tipológico de casas nas Ribeiras de Santa Cruz, ilha do Pico, Açores. Desenho do autor. Da esquerda para a direita: morada rural sobre estábulo, morada em piso sobre porão alto, e sobrado com rés-do-chão e andar nobre](media/pt-pico-ribeira-scruz-processo.tif){#fig:ribeiras}
+
+Apenas no final do século XIX é que se pôde ver a marca inconfundível de
 transformações diacrônicas operadas pela renovação dos modos de morar e
-dos comportamentos domésticos. A principal será a adição longitudinal de
+dos comportamentos domésticos. A principal terá sido a adição longitudinal de
 uma zona de « serviço » às já existentes zonas « social » e « íntima »
 [@lemos:1976cozinhas]. Já a introdução do afastamento lateral no lote
-urbano, por esta mesma época, provoca uma compactação e reorganização da
-circulação interior da morada, com eventual reposicionamento das zonas
+urbano, por esta mesma época, provocou uma compactação e reorganização da
+circulação interior da morada, com reposicionamento das zonas
 « íntima » e « social » [@lemos:1999casa; @lemos:1989alvenaria].
 
 # Recorte e metodologia #
@@ -370,14 +389,6 @@ senhoriais que se aproximam ao contexto urbano. A tipologia da casa
 corrente em Portugal tem, por sua vez, uma origem unitária como indicado
 pela nomenclatura do « lote gótico ».
 
-Por isso, o diagrama a seguir [@fig:diagrama]) oferece tanto uma síntese dos
-processos tipológicos acima descritos, quanto uma proposta de
-nomenclatura padronizada, baseada sempre que possível nas convenções já
-consagradas na literatura. Essa nomenclatura será doravante usada neste
-artigo para se referir aos tipos cujos partidos ilustram o diagrama.
-
-![Diagrama](){#fig:diagrama}
-
 
 ## Recorte de estudo ##
 
@@ -385,16 +396,34 @@ O enquadramento tipológico se limitou, conforme a premissa desta
 investigação, às casas correntes urbanas e às casas senhoriais, estas
 tanto no contexto de tecidos urbanos consolidados quanto em implantações
 de caráter suburbano, suficientemente próximas aos núcleos urbanos para
-que representassem um modo de vida citadino. O uso atual ou pretérito
-das edificações não foi levado em consideração, uma vez que o foco deste
-estudo está na morfologia espacial e não no programa.
+que representassem um modo de vida citadino. O recorte não leva em conta
+o uso atual ou pretérito dessas edificações, uma vez que o termo
+« casa » ou « morada » é empregado aqui como indicador tipológico e não
+funcional.
 
-Este trabalho reuniu 79 plantas de casas urbanas ou quintas suburbanas
-datadas de meados do século XVIII ao início do século XX já publicadas
-na literatura ou disponíveis em acervos digitalizados. Nesse universo,
-predominam os exemplares de casas correntes, muitos deles sobrados,
-sobre as casas senhoriais, por serem aqueles mais difundidos nos tecidos
-urbanos. O conjunto da amostra se concentra no antigo territórios goiano
+Este trabalho reuniu, portanto, 94 plantas de casas urbanas ou quintas
+suburbanas datadas de meados do século XVIII ao início do século XX já
+publicadas na literatura ou disponíveis em acervos digitalizados. Nesse
+universo, predominam os exemplares de casas correntes, tanto térreas
+quanto sobrados, sobre as casas senhoriais, por serem aquelas mais
+difundidas nos tecidos urbanos. O conjunto de dados empregados nesta
+análise --- as plantas de todas as 94 casas estudadas e seus respetivos
+gráficos de visibilidade --- está depositado em <https://osf.io/gy47h/>.
+
+A tipologia das casas correntes e senhoriais é pautada pela relação
+entre um « conceito de casa » --- terminologia proposta por
+@muratori:1959studiIX --- predominante, respectivo a cada uma das duas
+séries tipológicas citadas, e as variações e adaptações ao sítio e às
+necessidades específicas de cada caso. Nessa relação, verifica-se a
+maior estabilidade configuracional no que constitui o « andar nobre »
+das edificações: o nível único das casas térreas, ou o pavimento sobre
+porão ou sobre rés-do-chão comercial nas casas sobrelevadas ou
+assobradadas. Reciprocamente, os porões ou pavimentos inferiores dos
+sobrados apresentam grande variabilidade formal, compreendendo desde
+porões hipóstilos sem subdivisão espacial até pavimentos que chegam
+quase a replicar a distribuição de ambientes do andar nobre.
+
+O conjunto da amostra se concentra no antigo territórios goiano
 (incluindo o atual Tocantins), mineiro e fluminense. Trata-se de uma
 opção metodológica para contornar o contexto paulista, já amplamente
 estudado na literatura por autores como Lemos [-@lemos:1999casa;
@@ -425,26 +454,34 @@ zona de maior integração visual na planta, representada como uma mancha
 de cores mais quentes --- e sua relação com diferentes tipos de casas
 correntes e senhoriais.
 
-De modo a padronizar a análise da integração visual, foi considerado
-apenas um pavimento para cada edificação --- sempre aquele que
-oferecesse a expressão mais completa da composição tipológica. Assim, em
-sobrados o andar nobre foi analisado em quase todos os casos,
-desconsiderando-se o térreo, eventual porão, e os pavimentos superiores
-e sótãos, caso existissem.
+A análise da amostra considerou apenas o andar nobre das moradas, quando
+se tratava de edificações com mais de um pavimento. Como observado mais
+acima, o processo tipológico das moradas sobre porão alto ou
+assobradadas deriva da morada rural sobre estábulo. Nesse processo, o
+acesso ao andar nobre por escadaria exterior ou porta principal dando
+acesso direto à escada é a regra. Portanto, embora seja quase sempre
+possível a circulação interna entre pavimentos, o andar nobre constitui
+efetivamente uma configuração espacial autônoma e escassamente
+influenciada pela sua ligação com o nível térreo ou porão. A expressão
+tipológica da composição é representada, assim, de modo suficientemente
+completo por aquela configuração do andar nobre, ao passo que o porão ou
+pavimento térreo apresentam, na amostra analisada, variações
+independentes da configuração do andar nobre. Além disso, eventuais
+pavimentos acima do andar nobre e sótãos raramente ocorrem na amostra, e
+mais raramente ainda foram documentados na bibliografia disponível.
 
-Para o procedimento de análise, não é relevante a frequência de
-determinados tipos ou características na amostra, uma vez que o viés
-bibliográfico da seleção não garante representatividade para tais
-distribuições estatísticas. Apenas as configurações morfológicas
-atestadas em todos os exemplares estudados, dentro de cada série
-tipológica, foram levadas em consideração como resultados da pesquisa.
-
-<!--quais configurações são essas? Quais foram excluídas por não serem atestadas?-->
-<!--Tabela ou gráfico com síntese das variáveis analisadas e ignoradas-->
-
-O conjunto de dados empregados nesta análise --- as plantas de todas as
-87 casas estudadas e seus respetivos gráficos de visibilidade --- está
-depositado em <https://osf.io/gy47h/>.
+Por fim, cabe ressaltar que o propósito da análise foi o de identificar
+a ocorrência de padrões morfológicos recorrentes, não a sua frequência e
+nem configurações excepcionais. Isto porque o viés bibliográfico da
+seleção não garante representatividade para eventuais distribuições
+estatísticas. Além disso, na amostra ocorreram algumas configurações
+*sui generis* condicionadas seja por restrições na implantação das
+casas, seja como resultado de sucessivas alterações ou amálgamas de
+edificações originalmente separadas. Tais casos singulares não
+constituem, por si mesmos, tipos morfológicos uma vez que não pertencem
+nem a séries de variações sincrônicas, e nem, até onde foi possível
+identificar, a processos diacrônicos mais amplos. Portanto, fogem ao
+escopo deste trabalho e não são apresentados nos resultados.
 
 
 # Resultados e discussão #
@@ -463,7 +500,9 @@ central. Trata-se, portanto, de uma série com extremos conceituais bem
 definidos, desde a habitação mínima com uma « casa » (célula espacial)
 de frente e outra de fundos até a « morada de casas » (Portugal) ou
 « casa de morada » (Brasil) expansiva com uma ou duas fileiras de salas
-e alcovas de cada lado de um corredor central. Em casos extremos de
+e alcovas de cada lado de um corredor central.
+
+Em casos extremos de
 expansão do núcleo elementar da casa corrente, o conjunto inteiro da
 casa de morada se duplica com a introdução de um segundo corredor
 longitudinal com seu sistema de salas e alcovas ([@fig:cora]).
@@ -485,13 +524,13 @@ pessoas externas ao convívio familiar [@lemos:1996historia].
 
 Quanto às casas senhoriais, não é possível falar propriamente num
 *processo* tipológico com extremos conceitualmente fixos. Pelo
-contrário, verifica-se uma grande diversidade de configurações que não
-se pode ordenar numa sequência de desdobramentos lógicos
+contrário, verifica-se uma grande diversidade de configurações que se
+não pode ordenar numa sequência de desdobramentos lógicos
 [@lemos:1996historia]. O ponto comum, porém, à tipologia de casas
 senhoriais parece ser as enfiadas transversais de salões de dimensões
 maiores do que as células das casas correntes. Além disso, em muitos
-exemplares de casas senhoriais a profundidade do corpo edificado se
-resolve com um aparente empréstimo à série tipológica das casas
+exemplares de casas senhoriais a profundidade do corpo edificado
+resolve-se com um aparente empréstimo à série tipológica das casas
 correntes. Nesses casos, um corredor longitudinal ladeado por diversas
 alcovas (nem sempre acessíveis pelo próprio corredor) media a separação
 entre salões de frente e de fundos.
@@ -502,8 +541,9 @@ entre salões de frente e de fundos.
 A partir da descrição das composições de casas correntes e senhoriais,
 parece haver uma zona cinzenta entre essas duas séries tipológicas. De
 um lado, o crescimento da casa de morada resulta num desdobramento da
-composição para os lados. Do outro lado, certas casas senhoriais se
-hibridizam com elementos da distribuição espacial da casa corrente. É
+composição --- e consequentemente do centro integrador --- para os lados.
+Do outro lado, certas casas senhoriais
+hibridizam-se com elementos da distribuição espacial da casa corrente. É
 diante dessas zonas cinzentas que a análise de integração visual permite
 esclarecer características estruturantes de tais composições.
 
@@ -521,13 +561,13 @@ Nas plantas representativas da tipologia de casas correntes, o centro
 morfológico da composição está invariavelmente na « varanda » ou no
 portal entre o corredor e a varanda, reforçando a identificação desta
 última com o centro social da convivência doméstica ([@fig:enxaimel]). O
-vetor morfologicamente « quente » em volta desse ponto central se
-desenvolve sobretudo ao longo do eixo longitudinal formado pelo
+vetor morfologicamente « quente » em volta desse ponto central
+desenvolve-se sobretudo ao longo do eixo longitudinal formado pelo
 corredor.
 
 Reciprocamente, nas casas senhoriais, o vetor morfologicamente mais
-quente se situa quase sempre junto à frente da casa e tem uma direção
-transversal. Os pontos de maior integração visual se situam então junto
+quente situa-se no mais das vezes junto à frente da casa e tem uma direção
+transversal. Os pontos de maior integração visual situam-se então junto
 aos portais de alguns desses salões dispostos contra a fachada da casa
 ([@fig:koeler]).
 
@@ -543,9 +583,9 @@ casa senhorial, com eixo integrador transversal junto à fachada.
 
 No corpo de exemplos estudados nesta investigação, os casos de gráficos
 de visibilidade híbridos, onde as características tipológicas da casa
-corrente e da casa senhorial se sobreponham, são extremamente raros.
+corrente e da casa senhorial se sobrepõem, são extremamente raros.
 Apenas em alguns exemplares de casas senhoriais muito alongadas
-longitudinalmente ou dotadas de pátio totalmente encerrado, há também um
+longitudinalmente ou dotados de pátio totalmente encerrado, há também um
 vetor de integração visual longitudinal --- não necessariamente
 associado a composições importadas das casas correntes, porém. A casa da
 Princesa, em Pilar de Goiás, é o único exemplar do universo analisado
@@ -590,8 +630,8 @@ morfológico das casas correntes e dos solares. Salões e varandas
 voltadas para o quintal, as áreas de passagem, como corredores, assim
 como pátios internos, como as áreas mais quentes, ou seja, mais
 acessíveis. As áreas mais frias, ou seja, menos acessíveis, se
-mantiveram nas áreas de puxados e laterais das casas. Mesmo os anexos e
-áreas de serviços serem os pontos menos acessíveis nas casas,
+mantiveram nas áreas de puxados e laterais das casas. Mesmo que os
+anexos e áreas de serviços sejam os pontos menos acessíveis nas casas,
 percebeu-se que se localizavam relativamente próximos às áreas centrais.
 Foi confirmada a primazia da zona íntima nas casas de morada ou do salão
 nos tipos solarengos, onde centro quente nas residências permaneceu
@@ -609,5 +649,6 @@ tipologia doméstica tradicional no Brasil deve expandir o escopo de
 análise para a arquitetura eclética, mas também para séries tipológicas
 vernaculares ainda não exploradas: nomeadamente as moradas dos
 imigrantes de diversas nacionalidades e outras casas rurais de pequeno
-porte.
-
+porte. Ademais, os casos singulares que não se enquadram em nenhuma
+série tipológica podem, também, ser confrontados com essas séries e
+analisados quanto às implicações da sua configuração para a vida social.
