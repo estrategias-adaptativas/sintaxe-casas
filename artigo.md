@@ -1,14 +1,15 @@
 ---
-title: "Caracterização das tipologias de casas tradicionais luso-brasileiras por meio da integração visual"
+title: "Caracterização das tipologias de casas tradicionais luso-brasileiras por meio da integração visual[^1]"
 authors:
   - "Pedro P. Palazzo"
   - "Eduarda Toscano de Carvalho"
 bibliography: _data/biblio.yaml
-csl: _data/associacao-brasileira-de-normas-tecnicas.csl
+csl: _data/elsevier-harvard.csl
 reference-section-title: "Referências"
 lang: pt-BR
 figureTitle: "Figura"
-abstract: > # 200 palavras
+abstract: | # 200 palavras
+  ***Resumo.***
   Este trabalho analisa as diferenças morfológicas na arquitetura
   tradicional urbana luso-brasileira entre as tipologias de casas
   correntes e de casas senhoriais, no período que vai da metade do
@@ -27,6 +28,10 @@ abstract: > # 200 palavras
   fundos da casa corrente e, em contraste, a primazia dos espaços de
   recepção e representação na parte dianteira das casas senhoriais.
 
+  ***Palavras-chave.***
+  Arquitetura domética, Intervisibilidade, Tipologia, Brasil,
+  Séculos XVIII e XIX.
+
 keywords: ["Arquitetura doméstica", "Profundidade visual", "Tipologia", "Brasil", "Séculos XVIII e XIX"]
 thanks: >
   Esta pesquisa foi fomentada com uma bolsa de iniciação científica do
@@ -34,16 +39,12 @@ thanks: >
   (CNPq) no período 2021-2022.
 ---
 
-<!--Eixo Temático 3: Edificações-->
-
-<!--6.000 palavras sem resumo e keywords = 25p. = 10MB-->
-
-*Palavras-chave: Arquitetura doméstica, profundidade visual, tipologia,
-Brasil, séculos XVIII e XIX*
+<!--8.000 palavras-->
 
 # Characterizing traditional Brazilian house typologies by means of intervisibility analysis # {-}
 
-***Abstract.*** *This paper analyzes the morphological differences in
+:::::::::::::::::::::::::::::::::::::::::::::: {custom-style="Abstract"}
+***Abstract.*** This paper analyzes the morphological differences in
 traditional urban architecture in Brazil between the typologies of
 rowhouses and urban or suburban mansions, from the mid-eighteenth to the
 early twentieth century. It focuses on the relatively uniform and
@@ -58,12 +59,11 @@ confirms the overlap between the spatial composition of both rowhouses
 and mansions and the attributes of social life specific to each of these
 typologies. These attributes include the location of the family room in
 the rear of rowhouses and, in contrast, the primacy of ceremonial spaces
-in the front of mansions.*
+in the front of mansions.
 
-`\bigskip`{=latex}
-
-`\noindent`{=latex} *Keywords: Domestic architecture, visual depth,
-typology, Brazil, 18th and 19th centuries*
+***Keywords:*** Domestic architecture, visual depth,
+typology, Brazil, 18th and 19th centuries
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Introdução #
 
@@ -652,3 +652,7 @@ imigrantes de diversas nacionalidades e outras casas rurais de pequeno
 porte. Ademais, os casos singulares que não se enquadram em nenhuma
 série tipológica podem, também, ser confrontados com essas séries e
 analisados quanto às implicações da sua configuração para a vida social.
+
+[^1]: Esta pesquisa foi fomentada com uma bolsa de iniciação científica
+    do Conselho Nacional para o Desenvolvimento Científico e Tecnológico
+    (CNPq) no período 2021-2022.
