@@ -378,7 +378,7 @@ Ademais, essa nomenclatura é pouco relevante para se retroceder às
 matrizes tipológicas da casa luso-brasileira em Portugal continental ou
 nas ilhas atlânticas. Desde o Inquérito que a classificação hegemônica
 da arquitetura tradicional portuguesa opera por tipos regionais, em
-autores como Oliveira e Galhano [=@oliveira:1992arquitectura], @moutinho:1995arquitectura e
+autores como Oliveira e Galhano [-@oliveira:1992arquitectura], @moutinho:1995arquitectura e
 @mascarenhas:2015arquitectura. No entanto, trata-se de uma nomenclatura
 em grande medida estabilizada na bibliografia brasileira e da qual não
 será possível divergir significativamente.
