@@ -8,6 +8,7 @@ csl: _data/elsevier-harvard.csl
 reference-section-title: "Referências"
 lang: pt-BR
 figureTitle: "Figura"
+abstract-title: " "
 abstract: | # 200 palavras
   ***Resumo.***
   Este trabalho analisa as diferenças morfológicas na arquitetura
@@ -39,31 +40,11 @@ thanks: >
   (CNPq) no período 2021-2022.
 ---
 
+[^1]: Esta pesquisa foi fomentada com uma bolsa de iniciação científica
+    do Conselho Nacional para o Desenvolvimento Científico e Tecnológico
+    (CNPq) no período 2021-2022.
+
 <!--8.000 palavras-->
-
-# Characterizing traditional Brazilian house typologies by means of intervisibility analysis # {-}
-
-:::::::::::::::::::::::::::::::::::::::::::::: {custom-style="Abstract"}
-***Abstract.*** This paper analyzes the morphological differences in
-traditional urban architecture in Brazil between the typologies of
-rowhouses and urban or suburban mansions, from the mid-eighteenth to the
-early twentieth century. It focuses on the relatively uniform and
-conservative context of the states of Rio de Janeiro, Goiás (including
-Tocantins), and Minas Gerais. This study highlights defining
-characteristics of each of the two typological series. While most
-previous studies have looked at tree graph analysis to assess the
-topological connections between individual spaces, this research turns
-to intervisibility analysis, evidencing the morphological centers of
-compositions. The results highlight how visual integration analysis
-confirms the overlap between the spatial composition of both rowhouses
-and mansions and the attributes of social life specific to each of these
-typologies. These attributes include the location of the family room in
-the rear of rowhouses and, in contrast, the primacy of ceremonial spaces
-in the front of mansions.
-
-***Keywords:*** Domestic architecture, visual depth,
-typology, Brazil, 18th and 19th centuries
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Introdução #
 
@@ -136,16 +117,12 @@ A tipologia da arquitetura doméstica urbana portuguesa divergiu da
 matriz mediterrânea com o reparcelamento das casas-pátio antigas em
 casas correntes durante a Idade Média. Usando a terminologia cunhada por
 @westfall:1991building, o tipo portante em grande parte dos tecidos
-urbanos ibéricos deixou de ser a *regia* e passou a ser a *domus.*
+urbanos ibéricos deixou de ser a *regia* e passou a ser a *domus*
+([@fig:building-types]).
 Adotando a conceituação de @caniggia:1997analisi, a tipologia
 mediterrânea das casas-pátio --- e especialmente o tipo islamizado dos
 quarteirões profundos acessíveis por meio de adarves --- foi reduzida a
-um substrato do parcelamento do solo. Sobre este substrato islamizado, a
-reforma administrativa e a reorganização demográfica dos reinos cristãos
-impuseram, como mostrado por @navarro:2001urbanismo, um reparcelamento
-desses quarteirões em lotes de casas correntes, estreitos e profundos,
-modulados pelo substrato das casas-pátio preexistentes. Esse tipo de
-lote é convencionalmente designado em Portugal como « lote gótico ».
+um substrato do parcelamento do solo.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:building-types}
 ![domus](media/building-types-domus.png){#fig:building-types-domus}
@@ -155,27 +132,43 @@ Diagramas ideais dos tipos edilícios segundo C. William Westfall, 1991.
 Desenho do autor
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+Sobre este substrato islamizado, a
+reforma administrativa e a reorganização demográfica dos reinos cristãos
+impuseram, como mostrado por @navarro:2001urbanismo, um reparcelamento
+desses quarteirões em lotes de casas correntes, estreitos e profundos,
+modulados pelo substrato das casas-pátio preexistentes. Esse tipo de
+lote é convencionalmente designado em Portugal como « lote gótico ».
 Não obstante as implicações historicamente discutíveis de tal
 nomenclatura apontadas por @trindade:2013urbanismo, tanto a alusão aos
 godos quanto a morfologia desse paradigma urbanístico remetem à sua
 origem nos reinos germânicos do Noroeste da Europa --- Inglaterra, onde
 foi extensamente analisado por @conzen:2022alnwick, França e, mais a
-propósito da primeira dinastia portuguesa, Borgonha. O que importa notar
-é que, contrariamente à diversidade irredutível e aborígene das
-tradições rurais portuguesas identificadas pelo inquérito à *Arquitetura popular em Portugal*
-[-@arquitectura:1961], a tipologia das casas correntes tardomedievais na
-península Ibérica decorre de um processo intencionalmente uniformizador
+propósito da primeira dinastia portuguesa, Borgonha.
+
+O que importa notar é que, contrariamente à diversidade irredutível e
+aborígene das tradições rurais portuguesas identificadas pelo inquérito
+à *Arquitetura popular em Portugal* [-@arquitectura:1961],
+a tipologia das casas correntes tardomedievais na
+península Ibérica decorreu de um processo intencionalmente uniformizador
 e xenofílico. A uniformidade da série tipológica das casas correntes
 europeias é demonstrada no catálogo de plantas de habitações « para
 todas as qualidades de homens », desenhado por @serlio:1547sesto para um
-público francês, mas igualmente representativo das casas
+público francês ([@fig:serlio]), mas igualmente representativo das casas
 luso-brasileiras.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:serlio}
+![habitações para quaisquer qualidades de homens dentro da cidade, f. 45 r.º](media/Serlio_VI_Libro_045-r.jpg){#fig:serlio-45 width="7.2cm"}
+![casarões de mercadores dentro da cidade, f. 47 r.º](media/Serlio_VI_Libro_047-r.jpg){#fig:serlio-47 width="7.2cm"}
+
+Sebastiano Serlio, variantes sincrônicas de casas corrente europeias. *Sesto libro d'architettura*, 1547--51
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 No entanto, as casas correntes luso-brasileiras não são apenas uma
 adaptação de modelos vindos do norte. Uma vez adotada em Portugal, essa
 série tipológica se materializa por meio de dimensões modulares
 caracteristicamente locais. Essas dimensões se baseiam em células
-espaciais de pequenas dimensões (3,5 a 5,5 metros) conformando o que
+espaciais de modesto vão livre (15 a 25 palmos, ou cerca de 3,3 a
+5,5 metros) conformando o que
 @costa:2015moradas [13] denomina « moradas de casas ». A derivação do
 processo tipológico da casa corrente dá-se então pelo desdobramento,
 primeiro em profundidade e depois em largura, desse aglomerado de
@@ -200,9 +193,10 @@ elemento estruturante da composição. Tal relação é amiúde materializada
 por meio de um pátio, seja ele inteiramente encerrado na construção ou
 delimitado por três alas edificadas em forma de U e aberto para o
 quintal --- nunca um pátio dianteiro à maneira francesa. Com isso, a
-casa senhorial se vincula ao tipo ideal da *regia*, sendo irredutível
-tipologicamente à série da casa corrente, uma vez que esta é instância
-da *domus* [@westfall:1991building].
+casa senhorial se vincula ao tipo ideal da *regia* (ver
+@fig:building-types), sendo irredutível tipologicamente à série da casa
+corrente, uma vez que esta é instância da *domus*
+[@westfall:1991building].
 
 O pátio da casa senhorial, porém, não tem semelhança morfológica com o
 das casas mediterrâneas antigas e islamizadas. Isto porque o pátio
@@ -210,7 +204,9 @@ vernacular mediterrâneo é, entre outros atributos, um elemento da
 *promenade architecturale* na casa, conduzindo até o salão principal da
 morada. O pátio senhorial, ao contrário, se vincula ao tipo do *palazzo*
 medieval e renascentista. Neste tipo, o percurso social e público se
-situa *entre* a rua e o pátio, e não *através* do pátio.
+situa *entre* a rua e o pátio, e não *através* do pátio ([@fig:patio]).
+
+![Diagramas e grafos do pátio mediterrâneo (esquerda) e do pátio senhorial (direita). V = vestíbulo, E = escadaria, P = pátio, S = sala. Desenho do autor](media/patio.png){#fig:patio}
 
 Por isso mesmo, há exemplares que se podem classificar como casas
 senhoriais, mesmo sendo totalmente desprovidos de pátio. Nesses casos, é
@@ -653,6 +649,33 @@ porte. Ademais, os casos singulares que não se enquadram em nenhuma
 série tipológica podem, também, ser confrontados com essas séries e
 analisados quanto às implicações da sua configuração para a vida social.
 
-[^1]: Esta pesquisa foi fomentada com uma bolsa de iniciação científica
-    do Conselho Nacional para o Desenvolvimento Científico e Tecnológico
-    (CNPq) no período 2021-2022.
+::: {#refs}
+
+# Referências #
+
+:::
+
+# Characterizing traditional Brazilian house typologies by means of intervisibility analysis # {-}
+
+:::::::::::::::::::::::::::::::::::::::::::::: {custom-style="Abstract"}
+***Abstract.*** This paper analyzes the morphological differences in
+traditional urban architecture in Brazil between the typologies of
+rowhouses and urban or suburban mansions, from the mid-eighteenth to the
+early twentieth century. It focuses on the relatively uniform and
+conservative context of the states of Rio de Janeiro, Goiás (including
+Tocantins), and Minas Gerais. This study highlights defining
+characteristics of each of the two typological series. While most
+previous studies have looked at tree graph analysis to assess the
+topological connections between individual spaces, this research turns
+to intervisibility analysis, evidencing the morphological centers of
+compositions. The results highlight how visual integration analysis
+confirms the overlap between the spatial composition of both rowhouses
+and mansions and the attributes of social life specific to each of these
+typologies. These attributes include the location of the family room in
+the rear of rowhouses and, in contrast, the primacy of ceremonial spaces
+in the front of mansions.
+
+***Keywords:*** Domestic architecture, visual depth,
+typology, Brazil, 18th and 19th centuries
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
